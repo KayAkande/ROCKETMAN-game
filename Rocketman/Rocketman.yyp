@@ -3,6 +3,10 @@
   "resourceVersion": "1.6",
   "name": "Rocketman",
   "resources": [
+    {"id":{"name":"ObjectPlayer","path":"objects/ObjectPlayer/ObjectPlayer.yy",},"order":0,},
+    {"id":{"name":"SpriteRocketman","path":"sprites/SpriteRocketman/SpriteRocketman.yy",},"order":0,},
+    {"id":{"name":"ObjectWall","path":"objects/ObjectWall/ObjectWall.yy",},"order":1,},
+    {"id":{"name":"SpriteWall","path":"sprites/SpriteWall/SpriteWall.yy",},"order":1,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
