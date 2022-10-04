@@ -3,8 +3,6 @@
   "resourceVersion": "1.6",
   "name": "Rocketman",
   "resources": [
-    {"id":{"name":"spriteTest","path":"sprites/spriteTest/spriteTest.yy",},"order":2,},
-    {"id":{"name":"objectTest","path":"objects/objectTest/objectTest.yy",},"order":2,},
     {"id":{"name":"ObjectPlayer","path":"objects/ObjectPlayer/ObjectPlayer.yy",},"order":0,},
     {"id":{"name":"SpriteRocketman","path":"sprites/SpriteRocketman/SpriteRocketman.yy",},"order":0,},
     {"id":{"name":"ObjectWall","path":"objects/ObjectWall/ObjectWall.yy",},"order":1,},
