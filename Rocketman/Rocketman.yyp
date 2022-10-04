@@ -7,6 +7,7 @@
     {"id":{"name":"SpriteRocketman","path":"sprites/SpriteRocketman/SpriteRocketman.yy",},"order":0,},
     {"id":{"name":"ObjectWall","path":"objects/ObjectWall/ObjectWall.yy",},"order":1,},
     {"id":{"name":"SpriteWall","path":"sprites/SpriteWall/SpriteWall.yy",},"order":1,},
+    {"id":{"name":"Elton_John___Rocket_Man__Phunky_s_Knee_Deep_Extended_Remix_","path":"sounds/Elton_John___Rocket_Man__Phunky_s_Knee_Deep_Extended_Remix_/Elton_John___Rocket_Man__Phunky_s_Knee_Deep_Extended_Remix_.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
