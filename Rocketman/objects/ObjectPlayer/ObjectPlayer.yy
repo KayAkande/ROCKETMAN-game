@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "ObjectPlayer",
+  "name": "objectPlayer",
   "spriteId": {
-    "name": "SpriteRocketman",
-    "path": "sprites/SpriteRocketman/SpriteRocketman.yy",
+    "name": "spriteRocketmanRight",
+    "path": "sprites/spriteRocketmanRight/spriteRocketmanRight.yy",
   },
   "solid": false,
   "visible": true,

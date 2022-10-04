@@ -1,22 +1,41 @@
-RightKey = keyboard_check(vk_right);
-LeftKey = keyboard_check(vk_left);
-UpKey = keyboard_check(vk_up);
-DownKey = keyboard_check(vk_down);
+rightKey = keyboard_check(vk_right);
+leftKey = keyboard_check(vk_left);
+upKey = keyboard_check(vk_up);
+downKey = keyboard_check(vk_down);
 
-XSpeed = (RightKey- LeftKey) * MoveSpeed;
-YSpeed = (DownKey - UpKey) * MoveSpeed;
+xSpeed = (rightKey- leftKey) * moveSpeed;
+ySpeed = (downKey - upKey) * moveSpeed;
 
 //collisions
-if place_meeting(x + XSpeed, y, ObjectWall) == true
+if place_meeting(x + xSpeed, y, objectWall)
 {
-	XSpeed = 0;
+	xSpeed = 0;
 }
 
-if place_meeting(x, y + YSpeed, ObjectWall) == true
+if place_meeting(x, y + ySpeed, objectWall)
 {
-	YSpeed = 0;
+	ySpeed = 0;
 }
 
-x += XSpeed;
-y += YSpeed;
 
+//move the player
+x += xSpeed;
+y += ySpeed;
+
+
+//set sprite
+
+if ySpeed == 0
+{
+	if xSpeed > 0 {face = RIGHT};
+	if xSpeed < 0 {face = LEFT};
+}
+
+
+if xSpeed == 0
+{
+	if ySpeed > 0 {face = DOWN};
+	if ySpeed < 0 {face = UP};
+}
+
+spriteIndex = sprite[face];

@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "ObjectGoal",
+  "name": "objectGoal",
   "spriteId": {
-    "name": "SpriteGoal",
-    "path": "sprites/SpriteGoal/SpriteGoal.yy",
+    "name": "spriteGoal",
+    "path": "sprites/spriteGoal/spriteGoal.yy",
   },
   "solid": false,
   "visible": true,
