@@ -1,4 +1,4 @@
 XSpeed = 0;
 YSpeed = 0;
-MoveSpeed = 10;
+MoveSpeed = 5;
 
