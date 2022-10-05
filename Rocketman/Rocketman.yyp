@@ -7,6 +7,7 @@
     {"id":{"name":"scriptMacros","path":"scripts/scriptMacros/scriptMacros.yy",},"order":0,},
     {"id":{"name":"spriteRocketmanUp","path":"sprites/spriteRocketmanUp/spriteRocketmanUp.yy",},"order":4,},
     {"id":{"name":"objectPlayer","path":"objects/objectPlayer/objectPlayer.yy",},"order":0,},
+    {"id":{"name":"objectEnemy","path":"objects/objectEnemy/objectEnemy.yy",},"order":3,},
     {"id":{"name":"spriteRocketmanLeft","path":"sprites/spriteRocketmanLeft/spriteRocketmanLeft.yy",},"order":3,},
     {"id":{"name":"spriteRocketmanRight","path":"sprites/spriteRocketmanRight/spriteRocketmanRight.yy",},"order":0,},
     {"id":{"name":"objectWall","path":"objects/objectWall/objectWall.yy",},"order":1,},
@@ -15,6 +16,7 @@
     {"id":{"name":"spriteGoal","path":"sprites/spriteGoal/spriteGoal.yy",},"order":2,},
     {"id":{"name":"spriteTest","path":"sprites/spriteTest/spriteTest.yy",},"order":6,},
     {"id":{"name":"Elton_John___Rocket_Man__Phunky_s_Knee_Deep_Extended_Remix_","path":"sounds/Elton_John___Rocket_Man__Phunky_s_Knee_Deep_Extended_Remix_/Elton_John___Rocket_Man__Phunky_s_Knee_Deep_Extended_Remix_.yy",},"order":0,},
+    {"id":{"name":"spriteEnemy","path":"sprites/spriteEnemy/spriteEnemy.yy",},"order":7,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
