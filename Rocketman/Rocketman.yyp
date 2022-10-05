@@ -13,6 +13,7 @@
     {"id":{"name":"spriteWall","path":"sprites/spriteWall/spriteWall.yy",},"order":1,},
     {"id":{"name":"objectGoal","path":"objects/objectGoal/objectGoal.yy",},"order":2,},
     {"id":{"name":"spriteGoal","path":"sprites/spriteGoal/spriteGoal.yy",},"order":2,},
+    {"id":{"name":"spriteTest","path":"sprites/spriteTest/spriteTest.yy",},"order":6,},
     {"id":{"name":"Elton_John___Rocket_Man__Phunky_s_Knee_Deep_Extended_Remix_","path":"sounds/Elton_John___Rocket_Man__Phunky_s_Knee_Deep_Extended_Remix_/Elton_John___Rocket_Man__Phunky_s_Knee_Deep_Extended_Remix_.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
