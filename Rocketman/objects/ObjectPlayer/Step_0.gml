@@ -47,7 +47,7 @@ if ySpeed == 0
 	if xSpeed < 0 {face = LEFT};
 }
 
-
+if xSpeed > 0 && face == LEFT{face = RIGHT};
 if xSpeed == 0
 {
 	if ySpeed > 0 {face = DOWN};
