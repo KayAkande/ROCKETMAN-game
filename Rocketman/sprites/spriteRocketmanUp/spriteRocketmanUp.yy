@@ -67,11 +67,14 @@
     "eventStubScript": null,
   },
   "layers": [
+    {"resourceType":"GMImageFolderLayer","resourceVersion":"1.0","name":"f7ddb6cd-01e3-41ef-b246-4a87e566f191","displayName":"Layer Group 1","layers":[
+        {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"33f7f82a-6999-4fd1-bdb5-a18b3ff8a484","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"Layer 1",},
+      ],"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,},
     {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"9ca40665-b2ff-4c84-a932-84096e6d4ab3","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "rocketmanSprites",
+    "path": "folders/Sprites/rocketmanSprites.yy",
   },
 }

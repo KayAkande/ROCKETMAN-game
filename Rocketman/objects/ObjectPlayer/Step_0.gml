@@ -6,7 +6,7 @@ downKey = keyboard_check(vk_down);
 xSpeed = (rightKey- leftKey) * moveSpeed;
 ySpeed = (downKey - upKey) * moveSpeed;
 
-//collisions
+//collisions wiith wall
 if place_meeting(x + xSpeed, y, objectWall)
 {
 	xSpeed = 0;
@@ -16,6 +16,22 @@ if place_meeting(x, y + ySpeed, objectWall)
 {
 	ySpeed = 0;
 }
+//collisions with enemyApple
+if place_meeting(x + xSpeed, y, objectEnemyApple)
+{
+	xSpeed = 0;
+	x= x-25;
+	sprite_index = spriteRocketmanHurt;
+}
+
+if place_meeting(x, y + ySpeed, objectEnemyApple)
+{
+	ySpeed = 0;
+	y= y-25;
+	sprite_index = spriteRocketmanHurt;
+
+}
+
 
 
 //move the player
