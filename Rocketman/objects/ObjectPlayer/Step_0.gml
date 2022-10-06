@@ -38,4 +38,4 @@ if xSpeed == 0
 	if ySpeed < 0 {face = UP};
 }
 
-spriteIndex = sprite[face];
+sprite_index = sprite[face];
