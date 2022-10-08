@@ -3,7 +3,6 @@
 /// @DnDHash : 4BF880B2
 /// @DnDArgument : "soundid" "Elton_John___Rocket_Man__Phunky_s_Knee_Deep_Extended_Remix_"
 /// @DnDArgument : "loop" "1"
-/// @DnDSaveInfo : "soundid" "Elton_John___Rocket_Man__Phunky_s_Knee_Deep_Extended_Remix_"
 audio_play_sound(Elton_John___Rocket_Man__Phunky_s_Knee_Deep_Extended_Remix_, 0, 1, 1.0, undefined, 1.0);
 
 /// @DnDAction : YoYo Games.Common.Execute_Code
