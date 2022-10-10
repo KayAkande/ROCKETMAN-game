@@ -9,3 +9,11 @@ sprite[LEFT] = spriteRocketmanLeft;
 sprite[DOWN] = spriteRocketmanDown;
 
 face = RIGHT;
+
+
+
+//setting up health
+
+hp = 100;
+hpMax = hp;
+flash = 0;

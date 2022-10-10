@@ -4,6 +4,7 @@
   "name": "Rocketman",
   "resources": [
     {"id":{"name":"scriptMacros","path":"scripts/scriptMacros/scriptMacros.yy",},"order":0,},
+    {"id":{"name":"spriteHealthBarBorder","path":"sprites/spriteHealthBarBorder/spriteHealthBarBorder.yy",},"order":17,},
     {"id":{"name":"spriteRocketmanLeft","path":"sprites/spriteRocketmanLeft/spriteRocketmanLeft.yy",},"order":1,},
     {"id":{"name":"objectPlayer","path":"objects/objectPlayer/objectPlayer.yy",},"order":0,},
     {"id":{"name":"spriteRocketmanHurt","path":"sprites/spriteRocketmanHurt/spriteRocketmanHurt.yy",},"order":4,},
@@ -12,7 +13,9 @@
     {"id":{"name":"objectEnemy","path":"objects/objectEnemy/objectEnemy.yy",},"order":3,},
     {"id":{"name":"spriteEnemyApple","path":"sprites/spriteEnemyApple/spriteEnemyApple.yy",},"order":13,},
     {"id":{"name":"spriteEnemyBanana","path":"sprites/spriteEnemyBanana/spriteEnemyBanana.yy",},"order":14,},
+    {"id":{"name":"spriteHealthBar","path":"sprites/spriteHealthBar/spriteHealthBar.yy",},"order":16,},
     {"id":{"name":"objectWall","path":"objects/objectWall/objectWall.yy",},"order":1,},
+    {"id":{"name":"spriteHealthBarBackground","path":"sprites/spriteHealthBarBackground/spriteHealthBarBackground.yy",},"order":18,},
     {"id":{"name":"objectEnemyApple","path":"objects/objectEnemyApple/objectEnemyApple.yy",},"order":4,},
     {"id":{"name":"spriteWall","path":"sprites/spriteWall/spriteWall.yy",},"order":1,},
     {"id":{"name":"spriteRocketmanUp","path":"sprites/spriteRocketmanUp/spriteRocketmanUp.yy",},"order":3,},
