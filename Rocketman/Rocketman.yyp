@@ -14,6 +14,7 @@
     {"id":{"name":"spriteEnemyApple","path":"sprites/spriteEnemyApple/spriteEnemyApple.yy",},"order":13,},
     {"id":{"name":"spriteEnemyBanana","path":"sprites/spriteEnemyBanana/spriteEnemyBanana.yy",},"order":14,},
     {"id":{"name":"spriteHealthBar","path":"sprites/spriteHealthBar/spriteHealthBar.yy",},"order":16,},
+    {"id":{"name":"spriteWall2","path":"sprites/spriteWall2/spriteWall2.yy",},"order":19,},
     {"id":{"name":"objectWall","path":"objects/objectWall/objectWall.yy",},"order":1,},
     {"id":{"name":"spriteHealthBarBackground","path":"sprites/spriteHealthBarBackground/spriteHealthBarBackground.yy",},"order":18,},
     {"id":{"name":"objectEnemyApple","path":"objects/objectEnemyApple/objectEnemyApple.yy",},"order":4,},
@@ -67,6 +68,6 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2022.9.0.49",
+    "IDEVersion": "2022.9.1.51",
   },
 }
