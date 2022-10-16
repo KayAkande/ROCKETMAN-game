@@ -7,8 +7,9 @@ sprite[RIGHT] = spriteRocketmanRight;
 sprite[UP] = spriteRocketmanUp;
 sprite[LEFT] = spriteRocketmanLeft;
 sprite[DOWN] = spriteRocketmanDown;
+sprite[REST] = spriteRocketmanStationary;
 
-face = RIGHT;
+face = REST;
 
 
 

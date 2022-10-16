@@ -3,6 +3,11 @@ leftKey = keyboard_check(vk_left);
 upKey = keyboard_check(vk_up);
 downKey = keyboard_check(vk_down);
 
+//downKey = keyboard_check(ord("S"));
+
+
+
+
 xSpeed = (rightKey- leftKey) * moveSpeed;
 ySpeed = (downKey - upKey) * moveSpeed;
 
@@ -41,17 +46,25 @@ y += ySpeed;
 
 //set sprite
 
+if xSpeed > 0 && face == LEFT{face = RIGHT};
+
 if ySpeed == 0
 {
 	if xSpeed > 0 {face = RIGHT};
 	if xSpeed < 0 {face = LEFT};
 }
 
-if xSpeed > 0 && face == LEFT{face = RIGHT};
+
+
 if xSpeed == 0
 {
 	if ySpeed > 0 {face = DOWN};
 	if ySpeed < 0 {face = UP};
+}
+
+else 
+{
+//	face = REST;
 }
 
 sprite_index = sprite[face];
