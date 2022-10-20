@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "objectWall",
+  "name": "objectWallWide",
   "spriteId": {
-    "name": "spriteWallTall",
-    "path": "sprites/spriteWallTall/spriteWallTall.yy",
+    "name": "spriteWallWide",
+    "path": "sprites/spriteWallWide/spriteWallWide.yy",
   },
   "solid": false,
   "visible": true,

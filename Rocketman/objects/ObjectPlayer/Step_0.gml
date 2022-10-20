@@ -21,19 +21,40 @@ if place_meeting(x, y + ySpeed, objectWall)
 {
 	ySpeed = 0;
 }
+
+//collisions with wallWide
+if place_meeting(x + xSpeed, y, objectWallWide)
+{
+	xSpeed = 0;
+}
+
+if place_meeting(x, y + ySpeed, objectWallWide)
+{
+	ySpeed = 0;
+}
 //collisions with enemyApple
 if place_meeting(x + xSpeed, y, objectEnemyApple)
 {
 	xSpeed = 0;
-	x= x-25;
-	sprite_index = spriteRocketmanHurt;
+
 }
 
 if place_meeting(x, y + ySpeed, objectEnemyApple)
 {
 	ySpeed = 0;
-	y= y-25;
-	sprite_index = spriteRocketmanHurt;
+
+}
+
+//collisions with enemyBanana
+if place_meeting(x + xSpeed, y, objectEnemyBanana)
+{
+	xSpeed = 0;
+
+}
+
+if place_meeting(x, y + ySpeed, objectEnemyBanana)
+{
+	ySpeed = 0;
 
 }
 
