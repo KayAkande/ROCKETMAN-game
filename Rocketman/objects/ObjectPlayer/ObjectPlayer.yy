@@ -2,7 +2,10 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "objectPlayer",
-  "spriteId": null,
+  "spriteId": {
+    "name": "spriteRocketmanDown",
+    "path": "sprites/spriteRocketmanDown/spriteRocketmanDown.yy",
+  },
   "solid": false,
   "visible": true,
   "managed": true,
