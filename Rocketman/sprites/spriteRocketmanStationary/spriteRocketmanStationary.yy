@@ -118,7 +118,7 @@
     "resourceType": "GMNineSliceData",
   },
   "parent": {
-    "name": "rocketmanSprites",
-    "path": "folders/Sprites/rocketmanSprites.yy",
+    "name": "rocketman",
+    "path": "folders/Sprites/rocketman.yy",
   },
 }
