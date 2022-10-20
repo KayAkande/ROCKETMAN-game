@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "objectPlayer2",
   "spriteId": {
-    "name": "n",
-    "path": "sprites/n/n.yy",
+    "name": "spriteRocketmanUp",
+    "path": "sprites/spriteRocketmanUp/spriteRocketmanUp.yy",
   },
   "solid": false,
   "visible": true,
