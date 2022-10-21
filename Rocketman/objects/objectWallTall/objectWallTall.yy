@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "objectWall",
+  "name": "objectWallTall",
   "spriteId": {
     "name": "spriteWallTall",
     "path": "sprites/spriteWallTall/spriteWallTall.yy",

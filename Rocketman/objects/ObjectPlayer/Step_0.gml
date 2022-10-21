@@ -12,12 +12,12 @@ xSpeed = (rightKey- leftKey) * moveSpeed;
 ySpeed = (downKey - upKey) * moveSpeed;
 
 //collisions wiith wall
-if place_meeting(x + xSpeed, y, objectWall)
+if place_meeting(x + xSpeed, y, objectWallTall)
 {
 	xSpeed = 0;
 }
 
-if place_meeting(x, y + ySpeed, objectWall)
+if place_meeting(x, y + ySpeed, objectWallTall)
 {
 	ySpeed = 0;
 }
