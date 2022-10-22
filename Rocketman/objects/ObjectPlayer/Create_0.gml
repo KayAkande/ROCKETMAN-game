@@ -8,13 +8,6 @@ spriteRun = spriteRocketmanRun;
 spriteIdle = spriteRocketmanStand;
 localFrame = 0;
 
-sprite[RIGHT] = spriteRocketmanRight;
-sprite[UP] = spriteRocketmanUp;
-sprite[LEFT] = spriteRocketmanLeft;
-sprite[DOWN] = spriteRocketmanDown;
-sprite[REST] = spriteRocketmanStationary;
-
-face = REST;
 
 
 

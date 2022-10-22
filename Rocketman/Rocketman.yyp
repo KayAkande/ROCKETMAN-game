@@ -47,6 +47,7 @@
     {"id":{"name":"spriteEnemy","path":"sprites/spriteEnemy/spriteEnemy.yy",},"order":2,},
     {"id":{"name":"spriteWallTall","path":"sprites/spriteWallTall/spriteWallTall.yy",},"order":2,},
     {"id":{"name":"spriteRocketmanDown","path":"sprites/spriteRocketmanDown/spriteRocketmanDown.yy",},"order":8,},
+    {"id":{"name":"oGame","path":"objects/oGame/oGame.yy",},"order":14,},
     {"id":{"name":"level1","path":"rooms/level1/level1.yy",},"order":0,},
   ],
   "Options": [
