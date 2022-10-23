@@ -3,6 +3,8 @@
   "resourceVersion": "1.6",
   "name": "Rocketman",
   "resources": [
+    {"id":{"name":"objectRevive","path":"objects/objectRevive/objectRevive.yy",},"order":14,},
+    {"id":{"name":"spriteRevive","path":"sprites/spriteRevive/spriteRevive.yy",},"order":14,},
     {"id":{"name":"spriteShield","path":"sprites/spriteShield/spriteShield.yy",},"order":12,},
     {"id":{"name":"scriptMacros","path":"scripts/scriptMacros/scriptMacros.yy",},"order":0,},
     {"id":{"name":"spriteFloorSqaure25","path":"sprites/spriteFloorSqaure25/spriteFloorSqaure25.yy",},"order":5,},
