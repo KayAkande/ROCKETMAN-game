@@ -43,6 +43,7 @@
     {"id":{"name":"Elton_John___Rocket_Man__Phunky_s_Knee_Deep_Extended_Remix_","path":"sounds/Elton_John___Rocket_Man__Phunky_s_Knee_Deep_Extended_Remix_/Elton_John___Rocket_Man__Phunky_s_Knee_Deep_Extended_Remix_.yy",},"order":0,},
     {"id":{"name":"objectShield","path":"objects/objectShield/objectShield.yy",},"order":12,},
     {"id":{"name":"spriteEnemy","path":"sprites/spriteEnemy/spriteEnemy.yy",},"order":2,},
+    {"id":{"name":"objectBrokenTile1","path":"objects/objectBrokenTile1/objectBrokenTile1.yy",},"order":15,},
     {"id":{"name":"spriteWallTall","path":"sprites/spriteWallTall/spriteWallTall.yy",},"order":2,},
     {"id":{"name":"spriteRocketmanDown","path":"sprites/spriteRocketmanDown/spriteRocketmanDown.yy",},"order":8,},
     {"id":{"name":"spriteHealth","path":"sprites/spriteHealth/spriteHealth.yy",},"order":13,},
