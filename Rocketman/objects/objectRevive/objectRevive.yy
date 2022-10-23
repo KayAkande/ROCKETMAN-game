@@ -2,7 +2,10 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "objectRevive",
-  "spriteId": null,
+  "spriteId": {
+    "name": "spriteRevive",
+    "path": "sprites/spriteRevive/spriteRevive.yy",
+  },
   "solid": false,
   "visible": true,
   "managed": true,
