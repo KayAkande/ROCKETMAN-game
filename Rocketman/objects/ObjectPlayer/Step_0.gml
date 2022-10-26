@@ -27,56 +27,10 @@ if (inputMagnitude !=0)
 if (_oldSprite != sprite_index) localFrame =0;
 
 //Update Image Index
-scriptPlayerAnimate();
+PlayerAnimateSprite();
 
 
 
 
-
-//collisions wiith wall
-if place_meeting(x + xSpeed, y, objectWallTall)
-{
-	xSpeed = 0;
-}
-
-if place_meeting(x, y + ySpeed, objectWallTall)
-{
-	ySpeed = 0;
-}
-
-//collisions with wallWide
-if place_meeting(x + xSpeed, y, objectWallWide)
-{
-	xSpeed = 0;
-}
-
-if place_meeting(x, y + ySpeed, objectWallWide)
-{
-	ySpeed = 0;
-}
-//collisions with enemyApple
-if place_meeting(x + xSpeed, y, objectEnemyApple)
-{
-	xSpeed = 0;
-
-}
-
-if place_meeting(x, y + ySpeed, objectEnemyApple)
-{
-	ySpeed = 0;
-
-}
-
-//collisions with enemyBanana
-if place_meeting(x + xSpeed, y, objectEnemyBanana)
-{
-	xSpeed = 0;
-
-}
-
-if place_meeting(x, y + ySpeed, objectEnemyBanana)
-{
-	ySpeed = 0;
-
-}
-
+//Player collision
+PlayerCollision();

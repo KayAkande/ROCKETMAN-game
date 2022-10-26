@@ -11,5 +11,4 @@ function PlayerAnimateSprite() {
 		localFrame -= _totalFrames;
 	}else animationEnd = false;
 
-
 }

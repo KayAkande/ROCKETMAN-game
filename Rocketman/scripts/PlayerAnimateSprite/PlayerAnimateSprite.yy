@@ -1,7 +1,7 @@
 {
   "resourceType": "GMScript",
   "resourceVersion": "1.0",
-  "name": "scriptPlayerAnimate",
+  "name": "PlayerAnimateSprite",
   "isDnD": false,
   "isCompatibility": false,
   "parent": {

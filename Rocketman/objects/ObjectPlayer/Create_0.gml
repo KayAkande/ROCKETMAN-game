@@ -12,7 +12,8 @@ localFrame = 0;
 
 
 //setting up health
-
 hp = 100;
 hpMax = hp;
 flash = 0;
+
+collisionMap = layer_tilemap_get_id(layer_get_id("walls"));
