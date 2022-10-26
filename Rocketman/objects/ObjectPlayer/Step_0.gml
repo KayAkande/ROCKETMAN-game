@@ -30,7 +30,3 @@ if (_oldSprite != sprite_index) localFrame =0;
 PlayerAnimateSprite();
 
 
-
-
-//Player collision
-PlayerCollision();

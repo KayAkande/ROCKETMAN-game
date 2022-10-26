@@ -6,7 +6,7 @@
     "name": "spriteRocketmanRun",
     "path": "sprites/spriteRocketmanRun/spriteRocketmanRun.yy",
   },
-  "solid": false,
+  "solid": true,
   "visible": true,
   "managed": true,
   "spriteMaskId": {
