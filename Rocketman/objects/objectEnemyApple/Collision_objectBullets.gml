@@ -1,8 +1,7 @@
 /// @description Insert description here
 
 
-sprite_index = spriteExplosion;
-image_index = 1-20;
+
 
 if(!dead){
 	

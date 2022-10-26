@@ -1,10 +1,23 @@
+repeat(3)
+{
+
+}
+
 /// @description Insert description here
 // You can write your code in this editor
 
 
 if (dead) {
+	
+	repeat(3)
+{
 sprite_index = spriteExplosion;
+}
+
+
 speed = 0;
+instance_destroy(other);
+
 	
 }
 
@@ -20,19 +33,3 @@ if (direction >90 && direction <270) {
 
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
