@@ -30,3 +30,14 @@ if (_oldSprite != sprite_index) localFrame =0;
 PlayerAnimateSprite();
 
 
+coolDown--;
+
+if(coolDown <=0 && mouse_check_button(mb_left)){
+	coolDown = coolDownValue;
+	
+	audio_play_sound(shootSound, 1, false);
+	with (instance_create_layer(x,y,"bullets", objectBullets)){
+		direction = objectGun.image_angle;
+		speed = 8;
+}
+}

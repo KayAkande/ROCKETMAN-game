@@ -15,3 +15,9 @@ hp = 100;
 hpMax = hp;
 flash = 0;
 
+
+
+//bullets
+spd = 3;
+coolDownValue = 10;
+coolDown = 0;
