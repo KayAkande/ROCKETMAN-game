@@ -2,10 +2,7 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "objectJoystick",
-  "spriteId": {
-    "name": "spriteJoystick",
-    "path": "sprites/spriteJoystick/spriteJoystick.yy",
-  },
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "managed": true,
