@@ -10,14 +10,11 @@ localFrame = 0;
 
 collisionMap = layer_tilemap_get_id(layer_get_id("walls"));
 
-//setting up health
-hp = 100;
-hpMax = hp;
-flash = 0;
-
-
 
 //bullets
 spd = 3;
-coolDownValue = 10;
+coolDownValue = 15;
 coolDown = 0;
+
+
+//setting up health

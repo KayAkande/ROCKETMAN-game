@@ -25,6 +25,7 @@
     {"id":{"name":"objectUIParent","path":"objects/objectUIParent/objectUIParent.yy",},"order":12,},
     {"id":{"name":"spriteBullet","path":"sprites/spriteBullet/spriteBullet.yy",},"order":16,},
     {"id":{"name":"spriteGun","path":"sprites/spriteGun/spriteGun.yy",},"order":15,},
+    {"id":{"name":"objectHasHealth","path":"objects/objectHasHealth/objectHasHealth.yy",},"order":17,},
     {"id":{"name":"spriteEnemyApple","path":"sprites/spriteEnemyApple/spriteEnemyApple.yy",},"order":0,},
     {"id":{"name":"objectMultitouchManager","path":"objects/objectMultitouchManager/objectMultitouchManager.yy",},"order":11,},
     {"id":{"name":"PlayerCollision","path":"scripts/PlayerCollision/PlayerCollision.yy",},"order":2,},
