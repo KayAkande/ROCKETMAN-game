@@ -1,7 +1,17 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-if (!other.dead) room_restart();
+
+
+if (room == startScreen){
+	room_goto(level1);
+}
+
+
+
+
+
+
 
 
 

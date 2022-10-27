@@ -3,10 +3,7 @@
 
 
 
-if (!other.dead) game_restart();
-
-
-
+if (!other.dead) room_restart();
 
 
 
