@@ -3,8 +3,17 @@
 
 
 
+if (!other.dead) game_restart();
 
-dead = false;
+
+
+
+
+
+
+
+
+
 
 
 
