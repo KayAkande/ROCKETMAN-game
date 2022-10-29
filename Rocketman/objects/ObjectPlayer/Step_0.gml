@@ -4,17 +4,14 @@ upKey = keyboard_check(vk_up)|| keyboard_check(ord("W"));
 downKey = keyboard_check(vk_down)|| keyboard_check(ord("S"));
 attackKey = keyboard_check_pressed(vk_space);
 
-
 inputDirection = point_direction(0,0, rightKey - leftKey, downKey - upKey);
 inputMagnitude = (rightKey - leftKey != 0) || (downKey - upKey != 0);
-
 
 xSpeed = lengthdir_x(inputMagnitude * moveSpeed, inputDirection);
 ySpeed = lengthdir_y(inputMagnitude * moveSpeed, inputDirection);
 
 x += xSpeed;
 y += ySpeed;
-
 
 //Update Sprite Index
 var _oldSprite = sprite_index;
@@ -26,11 +23,8 @@ if (inputMagnitude !=0)
 
 if (_oldSprite != sprite_index) localFrame =0;
 
-
-
 //Update Image Index
 PlayerAnimateSprite();
-
 
 coolDown--;
 
