@@ -3,6 +3,6 @@
 function checkForPlayer(){
 
 	var _dis = distance_to_object(objectPlayer);
-	move_towards_point(objectPlayer.x, objectPlayer.y, 1);
+	move_towards_point(objectPlayer.x, objectPlayer.y, 2);
 	
 }

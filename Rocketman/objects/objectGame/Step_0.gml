@@ -3,11 +3,6 @@
 
 
 
-if (room == startScreen){
-	room_goto(level1);
-}
-
-
 
 
 
