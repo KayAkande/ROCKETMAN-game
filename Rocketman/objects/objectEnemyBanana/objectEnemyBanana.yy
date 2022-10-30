@@ -6,7 +6,7 @@
     "name": "spriteEnemyBanana",
     "path": "sprites/spriteEnemyBanana/spriteEnemyBanana.yy",
   },
-  "solid": true,
+  "solid": false,
   "visible": true,
   "managed": true,
   "spriteMaskId": null,

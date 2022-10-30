@@ -3,7 +3,7 @@
   "resourceVersion": "1.0",
   "name": "objectEnemyParent",
   "spriteId": null,
-  "solid": true,
+  "solid": false,
   "visible": true,
   "managed": true,
   "spriteMaskId": null,
