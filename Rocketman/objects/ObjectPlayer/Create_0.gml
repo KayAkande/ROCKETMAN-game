@@ -1,7 +1,7 @@
 xSpeed = 0;
 ySpeed = 0;
 image_speed = 0;
-moveSpeed = 6.7;
+moveSpeed = 7.5;
 
 spriteRun = spriteRocketmanRun;
 spriteIdle = spriteRocketmanStand;
@@ -10,7 +10,7 @@ localFrame = 0;
 collisionMap = layer_tilemap_get_id(layer_get_id("walls"));
 
 //bullets
-spd = 3;
+spd = 200;
 coolDownValue = 15;
 coolDown = 0;
 
