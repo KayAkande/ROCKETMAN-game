@@ -68,6 +68,7 @@
     {"id":{"name":"TileSet1","path":"tilesets/TileSet1/TileSet1.yy",},"order":0,},
     {"id":{"name":"objectRevive","path":"objects/objectRevive/objectRevive.yy",},"order":20,},
     {"id":{"name":"objectWallWide","path":"objects/objectWallWide/objectWallWide.yy",},"order":9,},
+    {"id":{"name":"ft_gui","path":"fonts/ft_gui/ft_gui.yy",},"order":0,},
     {"id":{"name":"loserScreen","path":"rooms/loserScreen/loserScreen.yy",},"order":3,},
     {"id":{"name":"spriteGoal","path":"sprites/spriteGoal/spriteGoal.yy",},"order":0,},
     {"id":{"name":"spriteInstruction","path":"sprites/spriteInstruction/spriteInstruction.yy",},"order":0,},
