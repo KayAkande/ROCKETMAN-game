@@ -33,7 +33,6 @@
     {"id":{"name":"level3","path":"rooms/level3/level3.yy",},"order":7,},
     {"id":{"name":"spriteBullet","path":"sprites/spriteBullet/spriteBullet.yy",},"order":12,},
     {"id":{"name":"spriteGun","path":"sprites/spriteGun/spriteGun.yy",},"order":11,},
-    {"id":{"name":"objectHasHealth","path":"objects/objectHasHealth/objectHasHealth.yy",},"order":17,},
     {"id":{"name":"spriteWallSquare43","path":"sprites/spriteWallSquare43/spriteWallSquare43.yy",},"order":5,},
     {"id":{"name":"spriteEnemyApple","path":"sprites/spriteEnemyApple/spriteEnemyApple.yy",},"order":0,},
     {"id":{"name":"objectContinueButton","path":"objects/objectContinueButton/objectContinueButton.yy",},"order":1,},
