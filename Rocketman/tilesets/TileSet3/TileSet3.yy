@@ -2,10 +2,7 @@
   "resourceType": "GMTileSet",
   "resourceVersion": "1.0",
   "name": "TileSet3",
-  "spriteId": {
-    "name": "spriteWallSquareCol",
-    "path": "sprites/spriteWallSquareCol/spriteWallSquareCol.yy",
-  },
+  "spriteId": null,
   "tileWidth": 16,
   "tileHeight": 16,
   "tilexoff": 0,
