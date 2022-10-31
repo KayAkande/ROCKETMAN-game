@@ -13,5 +13,5 @@ collisionMap = layer_tilemap_get_id(layer_get_id("walls"));
 spd = 200;
 coolDownValue = 15;
 coolDown = 0;
+coins = 0;
 
-//setting up health
