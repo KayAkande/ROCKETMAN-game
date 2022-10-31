@@ -12,6 +12,8 @@ if (place_meeting (x, y, objectPlayer) && !collected){
 if(collected){
 	if (floor(image_index) >= image_number - 1){
 		instance_destroy();
+		
+		audio_play_sound(coinSound, 1, false);
 	}
 }
 

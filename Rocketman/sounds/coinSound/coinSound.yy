@@ -1,10 +1,10 @@
 {
   "resourceType": "GMSound",
   "resourceVersion": "1.0",
-  "name": "Elton_John___Rocket_Man__Phunky_s_Knee_Deep_Extended_Remix_",
+  "name": "coinSound",
   "conversionMode": 0,
   "compression": 0,
-  "volume": 0.14,
+  "volume": 0.06,
   "preload": false,
   "bitRate": 128,
   "sampleRate": 44100,
@@ -14,8 +14,8 @@
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
   },
-  "soundFile": "Elton_John___Rocket_Man__Phunky_s_Knee_Deep_Extended_Remix_.mp3",
-  "duration": 464.208,
+  "soundFile": "coinSound.wav",
+  "duration": 2.001633,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",
