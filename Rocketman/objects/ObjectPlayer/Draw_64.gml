@@ -15,3 +15,14 @@ draw_set_halign(fa_right);
 draw_text(_w - draw_x*2, draw_y, coins);
 draw_set_halign(fa_left);
 
+
+//draw powerup sprites if collected
+if (objectPlayer.hasRevive){
+draw_sprite(spriteRevive, 0, _w - draw_x*2 -35, draw_y + 75 );	
+}
+if (objectPlayer.hasShield){
+draw_sprite(spriteShield, 0, _w - draw_x*2 -100, draw_y + 75 );	
+}
+if (objectPlayer.hasHealth){
+draw_sprite(spriteHealth, 0, _w - draw_x*2 -100, draw_y + 75 );	
+}

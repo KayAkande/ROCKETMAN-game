@@ -5,6 +5,7 @@
 
 if (place_meeting (x, y, objectPlayer) && !collected){
 	image_index = 0;
+	objectPlayer.hasShield = true;
 	collected = true;
 }
 

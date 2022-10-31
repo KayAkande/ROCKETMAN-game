@@ -3,6 +3,7 @@
 if (place_meeting (x, y, objectPlayer) && !collected){
 	image_index = 0;
 	collected = true;
+	objectPlayer.hasHealth = true;
 }
 
 //collected 
