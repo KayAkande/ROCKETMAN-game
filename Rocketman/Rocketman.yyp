@@ -76,6 +76,7 @@
     {"id":{"name":"objectRestartButton","path":"objects/objectRestartButton/objectRestartButton.yy",},"order":0,},
     {"id":{"name":"level2","path":"rooms/level2/level2.yy",},"order":1,},
     {"id":{"name":"Button","path":"sprites/Button/Button.yy",},"order":17,},
+    {"id":{"name":"spriteStartScreen","path":"sprites/spriteStartScreen/spriteStartScreen.yy",},"order":18,},
     {"id":{"name":"startScreen","path":"rooms/startScreen/startScreen.yy",},"order":2,},
     {"id":{"name":"spriteWallSquare","path":"sprites/spriteWallSquare/spriteWallSquare.yy",},"order":3,},
     {"id":{"name":"objectShield","path":"objects/objectShield/objectShield.yy",},"order":18,},
