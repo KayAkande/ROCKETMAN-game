@@ -7,7 +7,7 @@ if(enemy_hp == 0){
 	
 	dead = true;
 	layer = layer_get_id("bodies");
-	instance_destroy(other);
+	//instance_destroy(other);
 }
 
 
