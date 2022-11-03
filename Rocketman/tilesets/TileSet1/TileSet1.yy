@@ -2,10 +2,7 @@
   "resourceType": "GMTileSet",
   "resourceVersion": "1.0",
   "name": "TileSet1",
-  "spriteId": {
-    "name": "spriteFloorTestt",
-    "path": "sprites/spriteFloorTestt/spriteFloorTestt.yy",
-  },
+  "spriteId": null,
   "tileWidth": 16,
   "tileHeight": 16,
   "tilexoff": 0,
