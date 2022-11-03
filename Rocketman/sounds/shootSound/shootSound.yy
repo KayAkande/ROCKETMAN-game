@@ -4,7 +4,7 @@
   "name": "shootSound",
   "conversionMode": 0,
   "compression": 0,
-  "volume": 0.15,
+  "volume": 0.22,
   "preload": false,
   "bitRate": 128,
   "sampleRate": 44100,
