@@ -4,7 +4,7 @@
   "name": "powerUpSound",
   "conversionMode": 0,
   "compression": 0,
-  "volume": 0.17,
+  "volume": 0.18,
   "preload": false,
   "bitRate": 128,
   "sampleRate": 44100,

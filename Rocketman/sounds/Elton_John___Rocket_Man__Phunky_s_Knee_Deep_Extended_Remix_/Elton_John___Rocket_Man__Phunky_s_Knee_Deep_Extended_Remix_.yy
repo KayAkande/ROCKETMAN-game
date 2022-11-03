@@ -4,7 +4,7 @@
   "name": "Elton_John___Rocket_Man__Phunky_s_Knee_Deep_Extended_Remix_",
   "conversionMode": 0,
   "compression": 0,
-  "volume": 0.14,
+  "volume": 0.15,
   "preload": false,
   "bitRate": 128,
   "sampleRate": 44100,

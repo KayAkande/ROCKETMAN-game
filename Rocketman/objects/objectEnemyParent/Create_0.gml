@@ -1,27 +1,27 @@
 /// @description Insert description here
 // You can write your code in this editor
-enemy_hp = 15;
+enemy_hp = 10;
 dead = false;
 
 //are we chasing the player?
 alert = false;
 
 //distance we can start chasing the player
-alertDistance = choose(700,800);
+alertDistance = choose(900,1000);
 
 //set distance to stop from the player
-attackDistance = -5;
+attackDistance = 55;
 
 //create path resource
 path = path_add()
 
-enemyMoveSpeed = choose(5,4);
+enemyMoveSpeed = choose(8,7);
 
 //delay for calculating path
-calc_path_delay = 20;
+calc_path_delay = 15;
 
-//timer to count forwhen we take a path
-calc_path_timer = irandom(50);
+//timer to count for when we take a path
+calc_path_timer = irandom(25);
 
 //Bouncing off walls - Fix later
 //speed = 2;

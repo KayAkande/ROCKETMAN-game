@@ -3,7 +3,7 @@
 
 
 instance_destroy(other);
-enemy_hp = enemy_hp -5;
+enemy_hp = enemy_hp - 5;
 
 if(enemy_hp == 0){
 	
