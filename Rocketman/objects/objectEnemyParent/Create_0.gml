@@ -1,6 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-enemy_hp = 10;
+enemy_hp = 15;
 dead = false;
 
 //are we chasing the player?
@@ -24,5 +24,5 @@ calc_path_delay = 20;
 calc_path_timer = irandom(50);
 
 //Bouncing off walls - Fix later
-speed = 2;
-direction = irandom_range(0,360);
+//speed = 2;
+//direction = irandom_range(0,360);

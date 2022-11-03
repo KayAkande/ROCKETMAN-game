@@ -7,18 +7,3 @@ if keyboard_check(ord("P")){
 draw_self();
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
