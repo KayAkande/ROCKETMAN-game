@@ -19,3 +19,4 @@ hasRevive = true;
 hasShield = true;
 hasHealth = true;
 
+cursor_sprite = spriteCursor;
