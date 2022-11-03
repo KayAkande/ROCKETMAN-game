@@ -1,6 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-
+enemy_hp = 10;
 dead = false;
 
 //are we chasing the player?
