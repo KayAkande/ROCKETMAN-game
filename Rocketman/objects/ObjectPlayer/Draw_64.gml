@@ -12,7 +12,7 @@ var _w = display_get_gui_width();
 draw_sprite(spriteCoin, 0, _w - draw_x*2 -45, draw_y+15);
 // draw coin text
 draw_set_halign(fa_right);
-draw_text(_w - draw_x*2- 45,  draw_y +15, coins);
+draw_text(_w - draw_x*2- 45,  draw_y +15, global.totalCoins);
 draw_set_halign(fa_left);
 
 
