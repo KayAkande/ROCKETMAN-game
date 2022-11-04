@@ -47,7 +47,6 @@
     {"id":{"name":"coinSound","path":"sounds/coinSound/coinSound.yy",},"order":3,},
     {"id":{"name":"spriteEnemyBat","path":"sprites/spriteEnemyBat/spriteEnemyBat.yy",},"order":4,},
     {"id":{"name":"spriteExplosion","path":"sprites/spriteExplosion/spriteExplosion.yy",},"order":10,},
-    {"id":{"name":"objectEnemyBat","path":"objects/objectEnemyBat/objectEnemyBat.yy",},"order":28,},
     {"id":{"name":"spriteRocketmanRight","path":"sprites/spriteRocketmanRight/spriteRocketmanRight.yy",},"order":10,},
     {"id":{"name":"spriteRocketmanUp","path":"sprites/spriteRocketmanUp/spriteRocketmanUp.yy",},"order":6,},
     {"id":{"name":"objectWallParent","path":"objects/objectWallParent/objectWallParent.yy",},"order":24,},

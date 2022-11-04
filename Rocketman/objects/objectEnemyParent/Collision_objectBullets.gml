@@ -6,7 +6,7 @@ instance_destroy(other);
 enemy_hp = enemy_hp - 5;
 
 if(enemy_hp == 0){
-	audio_play_sound(soundEnemyDie, 1, false);
+	//audio_play_sound(soundEnemyDie, 1, false);
 	//repeat(10){sprite_index = spriteExplosion;}
 	
 	//if (start_timer == true) {

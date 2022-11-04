@@ -2,12 +2,21 @@
 // You can write your code in this editor
 
 //if (!other.dead) room_restart();
-hp += -1;
+global.health += -1;
 
-if (hp == 0)
+if (global.health <= 0)
 { 
+	global.health = 100;
 	global.roomName = room;
-	room_goto(loserScreen);
+	
+	
+	if(global.revivePowerup > 0){
+	global.revivePowerup = global.revivePowerup - 1;	
+	global.health = 50;	
+	room_restart();
+	}
+	else{
+	room_goto(loserScreen);}
 }
 
 
