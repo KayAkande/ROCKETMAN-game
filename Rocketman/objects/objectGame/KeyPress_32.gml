@@ -19,11 +19,17 @@ if (room == advanceScreen2){
 		room_goto(level3);
 }
 
+if (room == advanceScreen3){
+		room_goto(level4);
+}
+
 if (room == reviveScreen){
 		room_goto(global.lastRoom);
 }
 
-
+if (room == finalWinScreen){
+	game_restart();
+}
 
 
 

@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "objectArrow",
+  "name": "objectHint",
   "spriteId": {
     "name": "spriteArrow",
     "path": "sprites/spriteArrow/spriteArrow.yy",

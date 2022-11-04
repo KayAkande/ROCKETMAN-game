@@ -17,7 +17,10 @@
   ],
   "layers": [
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances_hint","instances":[
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_30B60B4D","properties":[],"isDnd":false,"objectId":{"name":"objectArrow","path":"objects/objectArrow/objectArrow.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":3.73,"scaleY":3.73,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":3840.0,"y":1824.0002,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_76EAD68B","properties":[],"isDnd":false,"objectId":{"name":"objectHint","path":"objects/objectHint/objectHint.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":-3.064841,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1280.0,"y":1344.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_65597E4B","properties":[],"isDnd":false,"objectId":{"name":"objectHint","path":"objects/objectHint/objectHint.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":5184.0,"y":1824.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_2412D83A","properties":[],"isDnd":false,"objectId":{"name":"objectHint","path":"objects/objectHint/objectHint.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":20.663609,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":2944.0,"y":3008.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_23F9434D","properties":[],"isDnd":false,"objectId":{"name":"objectHint","path":"objects/objectHint/objectHint.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":-9.852492,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":3744.0,"y":608.0,},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances_goal","instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_4F15626B","properties":[],"isDnd":false,"objectId":{"name":"objectGoal","path":"objects/objectGoal/objectGoal.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.5,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":6272.0,"y":1632.0,},
@@ -1918,7 +1921,6 @@
     {"name":"inst_5AEEC64B","path":"rooms/level2/level2.yy",},
     {"name":"inst_72EAA7C2","path":"rooms/level2/level2.yy",},
     {"name":"inst_7AFBA8DB","path":"rooms/level2/level2.yy",},
-    {"name":"inst_30B60B4D","path":"rooms/level2/level2.yy",},
     {"name":"inst_498B5254","path":"rooms/level2/level2.yy",},
     {"name":"inst_63D0D164","path":"rooms/level2/level2.yy",},
     {"name":"inst_7DBF4199","path":"rooms/level2/level2.yy",},
@@ -1948,6 +1950,10 @@
     {"name":"inst_35EFA918","path":"rooms/level2/level2.yy",},
     {"name":"inst_3B4181FC","path":"rooms/level2/level2.yy",},
     {"name":"inst_25BAE592","path":"rooms/level2/level2.yy",},
+    {"name":"inst_76EAD68B","path":"rooms/level2/level2.yy",},
+    {"name":"inst_65597E4B","path":"rooms/level2/level2.yy",},
+    {"name":"inst_2412D83A","path":"rooms/level2/level2.yy",},
+    {"name":"inst_23F9434D","path":"rooms/level2/level2.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
