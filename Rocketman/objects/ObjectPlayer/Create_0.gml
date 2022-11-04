@@ -1,7 +1,7 @@
 xSpeed = 0;
 ySpeed = 0;
 image_speed = 0;
-moveSpeed = 7.5;
+moveSpeed = 9;
 
 spriteRun = spriteRocketmanRun;
 spriteIdle = spriteRocketmanStand;

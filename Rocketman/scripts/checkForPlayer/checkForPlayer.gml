@@ -26,7 +26,9 @@ function checkForPlayer(){
 
 	// start if we can reach the player
 	if _found_player {
+		
 		path_start(path, enemyMoveSpeed, path_action_stop, false);
+		
 	}
  }
 } else {

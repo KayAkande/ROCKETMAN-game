@@ -35,4 +35,4 @@ draw_sprite(spriteHealth, 0, _w - draw_x*2 -350, draw_y+30);
 }
 
 
-draw_text(_w - draw_x*2- 45,  draw_y +50, global.health);
+draw_text(_w - draw_x*2- 1500,  draw_y +20, global.health);

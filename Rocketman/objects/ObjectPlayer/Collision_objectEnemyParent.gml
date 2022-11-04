@@ -11,10 +11,13 @@ if (global.health <= 0)
 	
 	
 	if(global.revivePowerup > 0){
-	global.revivePowerup = global.revivePowerup - 1;	
-	global.health = 50;	
-	room_restart();
-	}
+		global.revivePowerup = global.revivePowerup - 1;	
+		global.health = 50;	
+		
+		room_goto(reviveScreen);
+
+		}
+	
 	else{
 	room_goto(loserScreen);}
 }

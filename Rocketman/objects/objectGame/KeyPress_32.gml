@@ -4,7 +4,7 @@
 
 
 if (room == loserScreen){
-		room_goto(level1);
+		room_goto(global.lastRoom);
 }
 
 if (room == startScreen){
@@ -19,7 +19,9 @@ if (room == advanceScreen2){
 		room_goto(level3);
 }
 
-
+if (room == reviveScreen){
+		room_goto(global.lastRoom);
+}
 
 
 

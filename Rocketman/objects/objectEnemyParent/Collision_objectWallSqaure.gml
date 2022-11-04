@@ -11,11 +11,15 @@
 
 //move_towards_point(other.x+30, other.y+30, 3);
 
+//speed = speed * 5;
 
 
 
+if(room == levelBonusDestroyWalls ){
+instance_destroy(other);
+}
 
-
+//direction = direction + 180;
 
 
 
