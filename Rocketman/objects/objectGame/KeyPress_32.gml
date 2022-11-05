@@ -25,7 +25,14 @@ if (room == advanceScreen3){
 
 if (room == reviveScreen){
 		room_goto(global.lastRoom);
+		
+		if (global.reviveToRemove != 0){
+			instance_destroy(global.reviveToRemove);
+		}
+		
 }
+
+
 
 if (room == finalWinScreen){
 	game_restart();

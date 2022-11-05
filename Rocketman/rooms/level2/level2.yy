@@ -52,6 +52,7 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_25920B9A","properties":[],"isDnd":false,"objectId":{"name":"objectHealth","path":"objects/objectHealth/objectHealth.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1152.0,"y":2912.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_48ED02BA","properties":[],"isDnd":false,"objectId":{"name":"objectHealth","path":"objects/objectHealth/objectHealth.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":2016.0,"y":2848.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_E7A679F","properties":[],"isDnd":false,"objectId":{"name":"objectShield","path":"objects/objectShield/objectShield.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":4416.0,"y":2464.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_20A271E2","properties":[],"isDnd":false,"objectId":{"name":"objectRevive","path":"objects/objectRevive/objectRevive.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":512.0,"y":992.0,},
       ],"visible":true,"depth":400,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"instancesEnemyApple","instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_991EB5B","properties":[],"isDnd":false,"objectId":{"name":"objectEnemyApple","path":"objects/objectEnemyApple/objectEnemyApple.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":3040.0,"y":3040.0,},
@@ -2080,6 +2081,7 @@
     {"name":"inst_41D04D3B","path":"rooms/level2/level2.yy",},
     {"name":"inst_261D036","path":"rooms/level2/level2.yy",},
     {"name":"inst_21F3A3DE","path":"rooms/level2/level2.yy",},
+    {"name":"inst_20A271E2","path":"rooms/level2/level2.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,

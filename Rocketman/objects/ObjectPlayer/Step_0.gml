@@ -67,7 +67,7 @@ coolDown--;
 
 if (!place_empty(x, y, objectBrokenTile)){
 
-global.health = global.health - 0.5;
+global.health = global.health - 0.2;
 
 audio_play_sound(playerTakeDamageSound, 1, false);
 
@@ -89,6 +89,11 @@ if (global.health <= 0)
 		global.health = 50;	
 		
 		room_goto(reviveScreen);
+		
+		
+		
+
+		//array_push(global.instancesToRemove, global.reviveToRemove );
 
 		}
 	
