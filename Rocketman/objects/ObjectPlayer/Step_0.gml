@@ -32,17 +32,66 @@ coolDown--;
 //keyboard_check_pressed(vk_space)
  
  
-	if(coolDown <=0 && keyboard_check_pressed(vk_space) )	{
-	coolDown = coolDownValue;
+ 
+ 
+	if(coolDown <=0 && keyboard_check_pressed(vk_space)  )	{
+		
+		
+		if ( global.totalAmmo > 0) {
+		
+				coolDown = coolDownValue;
 	
 	audio_play_sound(shootSound, 1, false);
-	
+	global.totalAmmo = global.totalAmmo -1;
 	
 	
 	with (instance_create_layer(x,y,"bullets", objectBullets)){
 	
 	direction = objectGun.image_angle;
 	speed = 40;	}
+		
+		}
+		
+		else {
+			audio_play_sound(noAmmoSound, 1, false);
+		
+		}
+		
+		
 	
 	
 } 
+
+
+
+
+if (!place_empty(x, y, objectBrokenTile)){
+
+global.health = global.health - 0.5;
+
+audio_play_sound(playerTakeDamageSound, 1, false);
+
+}
+
+
+
+
+
+
+if (global.health <= 0)
+{ 
+	global.health = 100;
+	global.roomName = room;
+	
+	
+	if(global.revivePowerup > 0){
+		global.revivePowerup = global.revivePowerup - 1;	
+		global.health = 50;	
+		
+		room_goto(reviveScreen);
+
+		}
+	
+	else{
+	room_goto(loserScreen);}
+}

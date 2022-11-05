@@ -9,8 +9,19 @@ if (place_meeting (x, y, objectPlayer) && !collected){
 
 //collected 
 if(collected){
-	audio_play_sound(powerUpSound, 1, false);
+	
+	
+	if(self == objectAmmo){
+		audio_play_sound(pickUpAmmoSound, 1, false);
+	}
+	else{
+		audio_play_sound(powerUpSound, 1, false);
+	}
+	
+	
+	
 	if (floor(image_index) >= image_number - 1){
 		instance_destroy();
 	}
 }
+

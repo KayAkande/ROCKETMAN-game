@@ -10,7 +10,8 @@ alert = false;
 alertDistance = choose(900,1000);
 
 //set distance to stop from the player
-attackDistance = 100;
+//attackDistance = 100;
+attackDistance = -5;
 
 //create path resource
 path = path_add()

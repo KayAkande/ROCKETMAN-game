@@ -35,4 +35,13 @@ draw_sprite(spriteHealth, 0, _w - draw_x*2 -400, draw_y+30);
 }
 
 
+
+	draw_text(_w - draw_x*2- 600,  draw_y +30, floor(global.totalAmmo));
+draw_sprite(spriteAmmo, 0, _w - draw_x*1.5 -500, draw_y+30);
+
+
+
+
+
+
 draw_text(_w - draw_x*2- 1500,  draw_y +20, global.health);
