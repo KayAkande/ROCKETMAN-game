@@ -3,22 +3,28 @@
 
 
 
-target = instance_nearest(x,y,objectEnemyParent);
 
-if (target != noone){
+//if (global.target != noone ){
 	
-	instance_activate_object(self);
-image_angle = point_direction(objectPlayer.x, objectPlayer.y, target.x, target.y);
+	
+	
+//	instance_activate_object(self);
+//	image_angle = point_direction(objectPlayer.x, objectPlayer.y, global.target.x, global.target.y);
 
-x= target.x;
-y = target.y;
-}
+//	x = global.target.x;
+///	y = global.target.y;
 
-else{
+
+//}
+
+//else{
 		
-		instance_deactivate_object(self);
+//		instance_deactivate_object(self);
 
-}
+//}
+
+
+
 
 
 

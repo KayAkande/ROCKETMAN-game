@@ -11,7 +11,7 @@ localFrame = 0;
 
 //bullets
 spd = 200;
-coolDownValue = 15;
+coolDownValue = 10;
 coolDown = 0;
 coins = 0;
 hasRevive = true;

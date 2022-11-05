@@ -28,9 +28,11 @@ PlayerAnimateSprite();
 
 coolDown--;
 
+
+//keyboard_check_pressed(vk_space)
  
  
-	if(coolDown <=0 && mouse_check_button(mb_left))	{
+	if(coolDown <=0 && keyboard_check_pressed(vk_space) )	{
 	coolDown = coolDownValue;
 	
 	audio_play_sound(shootSound, 1, false);
@@ -40,7 +42,7 @@ coolDown--;
 	with (instance_create_layer(x,y,"bullets", objectBullets)){
 	
 	direction = objectGun.image_angle;
-	speed = 35;	}
+	speed = 40;	}
 	
 	
 } 
