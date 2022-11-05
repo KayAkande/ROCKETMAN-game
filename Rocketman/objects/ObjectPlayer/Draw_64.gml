@@ -18,18 +18,18 @@ draw_set_halign(fa_left);
 
 //draw powerup sprites if collected
 if (global.revivePowerup > 0){
-	draw_text(_w - draw_x*2- 200,  draw_y +30, global.revivePowerup);
-draw_sprite(spriteRevive, 0, _w - draw_x*2 -150, draw_y+30);
+	draw_text(_w - draw_x*2- 250,  draw_y +30, global.revivePowerup);
+draw_sprite(spriteRevive, 0, _w - draw_x*2 -200, draw_y+30);
 
 }
 if (global.shieldPowerup > 0){
-draw_text(_w - draw_x*2 -300,  draw_y +30, global.shieldPowerup);
-draw_sprite(spriteShield, 0, _w - draw_x*2 -250, draw_y+30);
+draw_text(_w - draw_x*2 -350,  draw_y +30, global.shieldPowerup);
+draw_sprite(spriteShield, 0, _w - draw_x*2 -300, draw_y+30);
 
 }
 if (global.healthPowerup > 0){
-	draw_text(_w - draw_x*2- 400,  draw_y +30, global.healthPowerup);
-draw_sprite(spriteHealth, 0, _w - draw_x*2 -350, draw_y+30);
+	draw_text(_w - draw_x*2- 450,  draw_y +30, global.healthPowerup);
+draw_sprite(spriteHealth, 0, _w - draw_x*2 -400, draw_y+30);
 
 
 }

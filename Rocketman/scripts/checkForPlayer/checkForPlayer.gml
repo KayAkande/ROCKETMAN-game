@@ -22,8 +22,15 @@ function checkForPlayer(){
 		calc_path_timer = calc_path_delay;
 		
 	//can we make a path to the player?
+	
+	if (instance_exists(self)) {
 	var _found_player = mp_grid_path(global.mp_grid, path, x, y, objectPlayer.x, objectPlayer.y, choose(0,1));
-
+	}
+	
+	else{
+	_found_player = false;
+	}
+	
 	// start if we can reach the player
 	if _found_player {
 		
