@@ -5,7 +5,7 @@ global.shieldPowerup = 0;
 global.revivePowerup = 0;
 global.lastRoom = "something";
 
-global.totalAmmo = 10;
+global.totalAmmo = 15;
 
 global.instancesToRemove = [];
 	global.reviveToRemove = 0;

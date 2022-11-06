@@ -18,6 +18,10 @@ if (room == level4){
 		global.lastRoom = level4
 }
 
+if (room == levelBonusDestroyWalls){
+		global.lastRoom = levelBonusDestroyWalls
+}
+
 
 
 
