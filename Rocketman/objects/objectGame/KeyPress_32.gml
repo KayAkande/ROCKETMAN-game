@@ -26,6 +26,9 @@ if (room == advanceScreen3){
 if (room == reviveScreen){
 		room_goto(global.lastRoom);
 		
+		global.totalAmmo = 10;
+		global.health = 50;
+		
 		if (global.reviveToRemove != 0){
 			instance_destroy(global.reviveToRemove);
 		}

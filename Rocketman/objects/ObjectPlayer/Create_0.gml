@@ -1,9 +1,23 @@
 xSpeed = 0;
 ySpeed = 0;
 image_speed = 0;
+
 moveSpeed = 9;
+<<<<<<< HEAD
 time = 60;
 timer = time;
+=======
+if(room = levelBonusEmptySpace){
+	moveSpeed = 16;
+}
+else if (room = levelBonusDestroyWalls){
+	moveSpeed = 12;
+}
+
+else {
+	moveSpeed = 9;
+}
+>>>>>>> 6d5a982e0aed0af0b43f1dc7f0abbe47869683c6
 
 spriteRun = spriteRocketmanRun;
 spriteIdle = spriteRocketmanStand;
