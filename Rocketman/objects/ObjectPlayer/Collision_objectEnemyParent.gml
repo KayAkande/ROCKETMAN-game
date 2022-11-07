@@ -3,7 +3,8 @@
 
 //if (!other.dead) room_restart();
 //global.health += -1;
-global.health += -0.5
+damage_Dealed = 0.5;
+global.health -= damage_Dealed; 
 audio_play_sound(playerTakeDamageSound, 1, false);
 
 //other.direction  = direction + 180;
