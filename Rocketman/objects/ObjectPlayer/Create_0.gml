@@ -11,6 +11,15 @@ sprite[REST] = spriteRocketmanStationary;
 
 face = REST;
 
+<<<<<<< Updated upstream
+=======
+coolDownValue = 15;
+coolDown = 0;
+coins = 0;
+hasRevive = false;
+hasShield = false;
+hasHealth = false;
+>>>>>>> Stashed changes
 
 
 //setting up health
