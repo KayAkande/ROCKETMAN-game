@@ -8,7 +8,7 @@ if (room == loserScreen){
 }
 
 if (room == startScreen){
-	room_goto(level1);
+	room_goto(levelBonusDestroyWalls);
 }
 
 if (room == advanceScreen1){
