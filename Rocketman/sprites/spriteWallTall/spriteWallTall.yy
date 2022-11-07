@@ -17,8 +17,12 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+<<<<<<< Updated upstream:Rocketman/sprites/spriteWallTall/spriteWallTall.yy
   "DynamicTexturePage": false,
   "width": 64,
+=======
+  "width": 128,
+>>>>>>> Stashed changes:Rocketman/sprites/spriteWallSquareRed/spriteWallSquareRed.yy
   "height": 128,
   "textureGroupId": {
     "name": "Default",

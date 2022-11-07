@@ -17,9 +17,14 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+<<<<<<< Updated upstream:Rocketman/sprites/spriteWallWide/spriteWallWide.yy
   "DynamicTexturePage": false,
   "width": 128,
   "height": 64,
+=======
+  "width": 80,
+  "height": 40,
+>>>>>>> Stashed changes:Rocketman/sprites/spriteAmmo/spriteAmmo.yy
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",

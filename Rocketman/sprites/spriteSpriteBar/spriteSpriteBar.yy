@@ -17,9 +17,14 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+<<<<<<< Updated upstream:Rocketman/sprites/spriteSpriteBar/spriteSpriteBar.yy
   "DynamicTexturePage": false,
   "width": 10,
   "height": 64,
+=======
+  "width": 24,
+  "height": 24,
+>>>>>>> Stashed changes:Rocketman/sprites/spriteBullet/spriteBullet.yy
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",

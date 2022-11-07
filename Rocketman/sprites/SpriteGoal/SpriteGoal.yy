@@ -17,9 +17,14 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+<<<<<<< Updated upstream
   "DynamicTexturePage": false,
   "width": 128,
   "height": 192,
+=======
+  "width": 160,
+  "height": 240,
+>>>>>>> Stashed changes
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
