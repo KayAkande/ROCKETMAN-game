@@ -1,3 +1,5 @@
+
+
 rightKey = keyboard_check(vk_right)|| keyboard_check(ord("D")) ;
 leftKey = keyboard_check(vk_left)|| keyboard_check(ord("A"));
 upKey = keyboard_check(vk_up)|| keyboard_check(ord("W"));

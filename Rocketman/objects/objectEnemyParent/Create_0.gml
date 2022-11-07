@@ -14,7 +14,7 @@ if (room = levelBonusDestroyWalls){
 
 //set distance to stop from the player
 //attackDistance = 100;
-attackDistance = -5;
+attackDistance = -2;
 
 //create path resource
 path = path_add()

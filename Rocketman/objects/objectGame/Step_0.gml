@@ -22,6 +22,10 @@ if (room == levelBonusDestroyWalls){
 		global.lastRoom = levelBonusDestroyWalls
 }
 
+if (room == levelBonusEmptySpace){
+		global.lastRoom = levelBonusEmptySpace
+}
+
 
 
 
