@@ -3,10 +3,10 @@
 
 //if (!other.dead) room_restart();
 //global.health += -1;
-<<<<<<< HEAD
+
 damage_Dealed = 0.5;
 global.health -= damage_Dealed; 
-=======
+
 
 
 if(room = levelBonusEmptySpace){
@@ -19,7 +19,7 @@ else{
 }
 
 
->>>>>>> 6d5a982e0aed0af0b43f1dc7f0abbe47869683c6
+
 audio_play_sound(playerTakeDamageSound, 1, false);
 
 //other.direction  = direction + 180;
