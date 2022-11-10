@@ -2,6 +2,7 @@
 // You can write your code in this editor
 
 
+
 if (room == level1){
 		global.lastRoom = level1
 }

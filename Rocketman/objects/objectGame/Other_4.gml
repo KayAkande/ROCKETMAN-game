@@ -11,4 +11,4 @@ var _h = ceil(room_height / tileSize);
 global.mp_grid = mp_grid_create(0, 0, _w, _h, tileSize, tileSize);
 
 //add solid instances to the grid
-mp_grid_add_instances(global.mp_grid, objectWallSqaure, false);
+mp_grid_add_instances(global.mp_grid, objectWallParent, false);

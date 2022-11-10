@@ -27,6 +27,7 @@
     {"id":{"name":"checkForPlayer","path":"scripts/checkForPlayer/checkForPlayer.yy",},"order":3,},
     {"id":{"name":"spriteLoser","path":"sprites/spriteLoser/spriteLoser.yy",},"order":2,},
     {"id":{"name":"spriteFinalWin","path":"sprites/spriteFinalWin/spriteFinalWin.yy",},"order":3,},
+    {"id":{"name":"spriteBonusTile","path":"sprites/spriteBonusTile/spriteBonusTile.yy",},"order":3,},
     {"id":{"name":"powerUpSound","path":"sounds/powerUpSound/powerUpSound.yy",},"order":4,},
     {"id":{"name":"levelBonusEmptySpace","path":"rooms/levelBonusEmptySpace/levelBonusEmptySpace.yy",},"order":7,},
     {"id":{"name":"spriteBullet","path":"sprites/spriteBullet/spriteBullet.yy",},"order":12,},

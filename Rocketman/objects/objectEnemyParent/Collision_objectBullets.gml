@@ -14,13 +14,7 @@ if(enemy_hp <= 0){
 
 sprite_index = spriteExplosion;
 
-//dead = true;
-	
-	
 
-//	dead = true;
-//	layer = layer_get_id("bodies");
-	
 	
 	
 image_speed = 10;
@@ -37,25 +31,3 @@ if (image_speed > 0)
 	
 	
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

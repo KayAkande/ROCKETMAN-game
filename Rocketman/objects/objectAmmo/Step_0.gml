@@ -1,8 +1,10 @@
+
 if (place_meeting (x, y, objectPlayer) && !collected){
 
-	global.totalAmmo = 	 global.totalAmmo +  10;
+newAmmo = choose(7,10);
+	global.totalAmmo = 	 global.totalAmmo +  newAmmo;
+	
 }
-
 
 
 

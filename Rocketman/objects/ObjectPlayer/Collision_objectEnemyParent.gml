@@ -1,13 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-//if (!other.dead) room_restart();
-//global.health += -1;
-
-damage_Dealed = 0.5;
-global.health -= damage_Dealed; 
-
-
 
 if(room = levelBonusEmptySpace){
 	
