@@ -27,6 +27,10 @@ if (room == level4){
 		room_goto(levelBonusDestroyWalls);
 }
 
+if (room == levelBonusDestroyWalls){
+		room_goto(levelBonusEmptySpace);
+}
+
 if (room == levelBonusEmptySpace) {
 		room_goto(finalWinScreen);
 }

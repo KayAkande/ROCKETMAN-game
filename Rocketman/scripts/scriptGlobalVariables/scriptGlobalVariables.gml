@@ -10,4 +10,4 @@ global.totalAmmo = 15;
 global.instancesToRemove = [];
 	global.reviveToRemove = 0;
 		
-	
+	global.totalBoom = 2;
