@@ -1,4 +1,4 @@
-if(instance_exists(objectEnemyParent)){
+if(room =levelBonusEmptySpace && instance_exists(objectEnemyParent)){
 
 }
 else{

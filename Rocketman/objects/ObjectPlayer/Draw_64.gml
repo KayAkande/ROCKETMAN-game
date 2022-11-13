@@ -41,6 +41,6 @@ draw_sprite(spriteAmmo, 0, _w - draw_x*1.5 -550, draw_y+30);
 
 
 
-
-
-draw_text(_w - 10*2- 1500,  draw_y +20, global.health);
+//Health
+draw_sprite(spriteHealthfull, 0, _w - draw_x*1.5 -1300, draw_y+30);
+draw_text(_w - 10*1 - 1500,  draw_y +45, global.health);

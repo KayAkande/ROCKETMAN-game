@@ -52,6 +52,7 @@
     {"id":{"name":"spriteRocketmanRight","path":"sprites/spriteRocketmanRight/spriteRocketmanRight.yy",},"order":10,},
     {"id":{"name":"pickUpAmmoSound","path":"sounds/pickUpAmmoSound/pickUpAmmoSound.yy",},"order":7,},
     {"id":{"name":"level4","path":"rooms/level4/level4.yy",},"order":13,},
+    {"id":{"name":"spriteHealthfull","path":"sprites/spriteHealthfull/spriteHealthfull.yy",},"order":0,},
     {"id":{"name":"spriteRocketmanUp","path":"sprites/spriteRocketmanUp/spriteRocketmanUp.yy",},"order":6,},
     {"id":{"name":"levelBonusDestroyWalls","path":"rooms/levelBonusDestroyWalls/levelBonusDestroyWalls.yy",},"order":11,},
     {"id":{"name":"objectWallParent","path":"objects/objectWallParent/objectWallParent.yy",},"order":24,},
@@ -151,6 +152,7 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"wall","folderPath":"folders/Sprites/wall.yy","order":8,},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tile Sets","folderPath":"folders/Tile Sets.yy","order":2,},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Timelines","folderPath":"folders/Timelines.yy","order":8,},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"healthbar","folderPath":"folders/Sprites/healthbar.yy","order":27,},
   ],
   "AudioGroups": [
     {"resourceType":"GMAudioGroup","resourceVersion":"1.3","name":"audiogroup_default","targets":-1,},

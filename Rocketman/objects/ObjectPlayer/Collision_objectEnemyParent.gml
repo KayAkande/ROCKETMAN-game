@@ -37,5 +37,5 @@ other.y = other.y + 100;
 
 //oldsprite = object_get_sprite(self);
 
- object_set_sprite(self, spriteRocketmanHurt);
+ //object_set_sprite(self, spriteRocketmanHurt);
 
