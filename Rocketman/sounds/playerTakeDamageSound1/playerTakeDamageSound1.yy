@@ -1,10 +1,10 @@
 {
   "resourceType": "GMSound",
   "resourceVersion": "1.0",
-  "name": "playerTakeDamageSound",
+  "name": "playerTakeDamageSound1",
   "conversionMode": 0,
   "compression": 0,
-  "volume": 0.23,
+  "volume": 0.28,
   "preload": false,
   "bitRate": 128,
   "sampleRate": 44100,
@@ -14,8 +14,8 @@
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
   },
-  "soundFile": "playerTakeDamageSound.wav",
-  "duration": 3.3,
+  "soundFile": "playerTakeDamageSound1.mp3",
+  "duration": 0.444082,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",

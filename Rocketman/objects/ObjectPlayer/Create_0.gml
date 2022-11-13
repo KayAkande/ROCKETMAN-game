@@ -38,6 +38,9 @@ hasHealth = true;
 	range = 250;
 	rotationSpeed = 3;
 
+
+
+
 //window_set_cursor(cr_none);
 //cursor_sprite = spriteCursor;
 

@@ -67,11 +67,40 @@ coolDown--;
 
 
 
-if (!place_empty(x, y, objectBrokenTile)){
+var damageSound1 = playerTakeDamageSound1;
 
-global.health = global.health - 0.2;
+var damageSound2 = playerTakeDamageSound2;
 
-audio_play_sound(playerTakeDamageSound, 1, false);
+
+if (!place_empty(x, y, objectBrokenTile) ){
+
+	global.health = global.health - 0.2;
+
+	if (!audio_is_playing(damageSound1))
+	{
+		audio_play_sound(damageSound1, 0, 1, 1.0, undefined, 1.0);
+	}
+
+	} else {
+	
+		audio_stop_sound(damageSound1);
+
+}
+
+
+if (!place_empty(x, y, objectEnemyParent) ){
+
+
+	if (!audio_is_playing(damageSound2))
+	{
+		audio_play_sound(damageSound2, 0, 1, 1.0, undefined, 1.0);
+	}
+
+	} else {
+	
+		audio_stop_sound(damageSound2);
+		
+		
 
 }
 
@@ -93,8 +122,6 @@ if (global.health <= 0)
 		room_goto(reviveScreen);
 		
 		
-		
-
 		//array_push(global.instancesToRemove, global.reviveToRemove );
 
 		}

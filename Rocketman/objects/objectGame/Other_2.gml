@@ -1,5 +1,5 @@
-/// @description play music
-// You can write your code in this editor
+//var l49F78A86_0 = Elton_John___Rocket_Man__Phunky_s_Knee_Deep_Extended_Remix_;
+//if (audio_is_playing(l49F78A86_0))
+//{
 
-audio_play_sound(Elton_John___Rocket_Man__Phunky_s_Knee_Deep_Extended_Remix_, 0, 1, 1.0, undefined, 1.0);
-
+//}
