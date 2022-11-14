@@ -10,7 +10,7 @@ if(room = levelBonusEmptySpace){
 }
 
 else{
-	global.health += -0.5
+	global.health -= damageTaken
 }
 
 
