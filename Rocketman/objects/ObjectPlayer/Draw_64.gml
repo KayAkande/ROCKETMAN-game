@@ -42,5 +42,49 @@ draw_sprite(spriteAmmo, 0, _w - draw_x*1.5 -550, draw_y+30);
 
 
 //Health
-draw_sprite(spriteHealthfull, 0, _w - draw_x*1.5 -1300, draw_y+30);
+if(global.health < 10 ){
+	draw_sprite(spriteHealth10, 0, _w - draw_x*1.5 -1300, draw_y+30);
+}
+
+else if(global.health  > 10 && global.health < 20 ){
+	draw_sprite(spriteHealth10, 0, _w - draw_x*1.5 -1300, draw_y+30);
+}
+
+else if(global.health  > 20 && global.health < 30 ){
+	draw_sprite(spriteHealth20, 0, _w - draw_x*1.5 -1300, draw_y+30);
+}
+
+else if(global.health  > 30 && global.health < 40 ){
+	draw_sprite(spriteHealth30, 0, _w - draw_x*1.5 -1300, draw_y+30);
+}
+
+else if(global.health  > 40 && global.health < 50 ){
+	draw_sprite(spriteHealth40, 0, _w - draw_x*1.5 -1300, draw_y+30);
+}
+
+else if(global.health  > 50 && global.health < 60 ){
+	draw_sprite(spriteHealth50, 0, _w - draw_x*1.5 -1300, draw_y+30);
+}
+
+else if(global.health  > 60 && global.health < 70 ){
+	draw_sprite(spriteHealth60, 0, _w - draw_x*1.5 -1300, draw_y+30);
+}
+
+else if(global.health  > 70 && global.health < 80 ){
+	draw_sprite(spriteHealth70, 0, _w - draw_x*1.5 -1300, draw_y+30);
+}
+
+else if(global.health  > 80 && global.health < 90 ){
+	draw_sprite(spriteHealth80, 0, _w - draw_x*1.5 -1300, draw_y+30);
+}
+
+else if(global.health  > 90 && global.health < 100 ){
+	draw_sprite(spriteHealth90, 0, _w - draw_x*1.5 -1300, draw_y+30);
+}
+
+else if(global.health = 100 ){
+	draw_sprite(spriteHealth100, 0, _w - draw_x*1.5 -1300, draw_y+30);
+}
+
+
 draw_text(_w - 10*1 - 1500,  draw_y +45, global.health);
