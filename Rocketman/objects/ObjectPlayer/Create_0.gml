@@ -1,7 +1,7 @@
 xSpeed = 0;
 ySpeed = 0;
 image_speed = 0;
-damageTaken = 0.5;
+global.DamageTaken = 0.5;
 
 moveSpeed = 9;
 //<<<<<<< HEAD

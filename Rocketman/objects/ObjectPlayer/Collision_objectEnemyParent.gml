@@ -11,7 +11,7 @@ if(room = levelBonusEmptySpace){
 
 //damage taken by player for other levels
 else{
-	global.health -= damageTaken
+	global.health -= global.DamageTaken;
 }
 
 
