@@ -14,7 +14,9 @@ draw_sprite(spriteCoin, 0, _w - draw_x*2 -45, draw_y+15);
 draw_set_halign(fa_right);
 draw_text(_w - draw_x*2- 45,  draw_y +15, global.totalCoins);
 draw_set_halign(fa_left);
-
+//draw kill count
+draw_text(_w - draw_x*2- 350,  draw_y +75, "Enemy Kill Count: ");
+draw_text(_w - draw_x*2- 40,  draw_y +75, floor(global.killcount));
 
 //draw powerup sprites if collected
 if (global.revivePowerup >= 0){

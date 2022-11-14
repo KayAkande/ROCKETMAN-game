@@ -1,4 +1,5 @@
 global.totalCoins = 0;
+global.killcount = 0;
 global.health = 100;
 global.healthPowerup = 0;
 global.shieldPowerup = 0;
