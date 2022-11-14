@@ -64,6 +64,7 @@
     "eventStubScript": null,
   },
   "layers": [
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"450e6185-c9aa-47c9-aa68-94882d2aeffd","visible":true,"isLocked":false,"blendMode":3,"opacity":70.0,"displayName":"Layer 1",},
     {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"a08595a1-3c1b-453f-ba14-2547ec05c549","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
