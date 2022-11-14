@@ -3,11 +3,16 @@
 
 
 
-
-
-
 if(room == levelBonusDestroyWalls ){
-instance_destroy(other);
+	
+	if(other = objectWallSqaureRed){
+		
+	}
+	
+	else{
+		instance_destroy(other);
+	}
+
 }
 
 
