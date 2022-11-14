@@ -2,10 +2,14 @@
 // You can write your code in this editor
 
 
-if (dead) {	
-speed = 0;
-instance_destroy(other);
-global.killcount ++;
+if (dead) 
+{	
+	speed = 0;
+	instance_destroy(other);
+	global.killcount ++;
+	
+	
+	
 }
 
 

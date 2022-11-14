@@ -6,7 +6,7 @@
   "volume": 1.0,
   "parentRoom": null,
   "views": [
-    {"inherit":false,"visible":true,"xview":0,"yview":0,"wview":3200,"hview":1800,"xport":0,"yport":0,"wport":3200,"hport":1800,"hborder":3200,"vborder":1800,"hspeed":-20,"vspeed":-20,"objectId":{"name":"objectPlayer","path":"objects/objectPlayer/objectPlayer.yy",},},
+    {"inherit":false,"visible":true,"xview":0,"yview":0,"wview":3200,"hview":1800,"xport":0,"yport":0,"wport":3200,"hport":1800,"hborder":3200,"vborder":1800,"hspeed":-1,"vspeed":-1,"objectId":{"name":"objectPlayer","path":"objects/objectPlayer/objectPlayer.yy",},},
     {"inherit":false,"visible":false,"xview":0,"yview":0,"wview":1366,"hview":768,"xport":0,"yport":0,"wport":1366,"hport":768,"hborder":32,"vborder":32,"hspeed":-1,"vspeed":-1,"objectId":null,},
     {"inherit":false,"visible":false,"xview":0,"yview":0,"wview":1366,"hview":768,"xport":0,"yport":0,"wport":1366,"hport":768,"hborder":32,"vborder":32,"hspeed":-1,"vspeed":-1,"objectId":null,},
     {"inherit":false,"visible":false,"xview":0,"yview":0,"wview":1366,"hview":768,"xport":0,"yport":0,"wport":1366,"hport":768,"hborder":32,"vborder":32,"hspeed":-1,"vspeed":-1,"objectId":null,},
@@ -34,6 +34,7 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_2B4D9E25","properties":[],"isDnd":false,"objectId":{"name":"objectGun","path":"objects/objectGun/objectGun.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":448.0,"y":480.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_4BCB1FAE","properties":[],"isDnd":false,"objectId":{"name":"objectGame","path":"objects/objectGame/objectGame.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":470.0,"y":226.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_2FBBC1E8","properties":[],"isDnd":false,"objectId":{"name":"objectCursor","path":"objects/objectCursor/objectCursor.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":438.0,"y":1378.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_7D742CA","properties":[],"isDnd":false,"objectId":{"name":"objectScreenShake","path":"objects/objectScreenShake/objectScreenShake.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":352.0,"y":288.0,},
       ],"visible":true,"depth":300,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances_powerups","instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_372850BC","properties":[],"isDnd":false,"objectId":{"name":"objectShield","path":"objects/objectShield/objectShield.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":192.0,"y":2144.0,},
@@ -1256,6 +1257,7 @@
     {"name":"inst_1526CE0D","path":"rooms/level1/level1.yy",},
     {"name":"inst_199AC914","path":"rooms/level1/level1.yy",},
     {"name":"inst_632908E2","path":"rooms/level1/level1.yy",},
+    {"name":"inst_7D742CA","path":"rooms/level1/level1.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
