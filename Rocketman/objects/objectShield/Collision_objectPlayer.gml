@@ -1,12 +1,11 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-if (place_meeting (x, y, objectPlayer) && !collected){
 
-	global.shieldPowerup = 	 global.shieldPowerup +1;
-	
-	
+if (place_meeting (x, y, objectPlayer) && !collected){
+	global.DamageTaken = 0;
 }
+
 
 
 
