@@ -103,6 +103,7 @@
     {"id":{"name":"objectShield","path":"objects/objectShield/objectShield.yy",},"order":18,},
     {"id":{"name":"spriteCursor","path":"sprites/spriteCursor/spriteCursor.yy",},"order":21,},
     {"id":{"name":"advanceScreen3","path":"rooms/advanceScreen3/advanceScreen3.yy",},"order":2,},
+    {"id":{"name":"objectPause","path":"objects/objectPause/objectPause.yy",},"order":35,},
     {"id":{"name":"soundEnemyDie","path":"sounds/soundEnemyDie/soundEnemyDie.yy",},"order":5,},
     {"id":{"name":"objectHint","path":"objects/objectHint/objectHint.yy",},"order":25,},
     {"id":{"name":"level1","path":"rooms/level1/level1.yy",},"order":9,},
