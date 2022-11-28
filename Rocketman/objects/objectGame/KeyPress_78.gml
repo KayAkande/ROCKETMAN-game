@@ -22,8 +22,11 @@ if (room == level3){
 		room_goto(level4);
 }
 
-
 if (room == level4){
+		room_goto(level5);
+}
+
+if (room == level5){
 		room_goto(levelBonusDestroyWalls);
 }
 

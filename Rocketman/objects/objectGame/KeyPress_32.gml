@@ -24,8 +24,8 @@ if (room == advanceScreen2){
 }
 
 if (room == advanceScreen3){
-		//room_goto(level4);		
-		room_goto(levelBonusDestroyWalls);
+		room_goto(level4);		
+		//room_goto(levelBonusDestroyWalls);
 }
 
 
