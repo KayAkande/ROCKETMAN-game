@@ -80,6 +80,7 @@
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances_powerups","instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_2AA5BC96","properties":[],"isDnd":false,"objectId":{"name":"objectHealth","path":"objects/objectHealth/objectHealth.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":896.0,"y":256.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_14DED8CF","properties":[],"isDnd":false,"objectId":{"name":"objectRevive","path":"objects/objectRevive/objectRevive.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":4768.0,"y":576.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_5F59EACA","properties":[],"isDnd":false,"objectId":{"name":"objectShield","path":"objects/objectShield/objectShield.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":6848.0,"y":2656.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_33E03F24","properties":[],"isDnd":false,"objectId":{"name":"objectRevive","path":"objects/objectRevive/objectRevive.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":256.0,"y":2880.0,},
       ],"visible":true,"depth":500,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances_goal","instances":[
@@ -3323,6 +3324,7 @@
     {"name":"inst_1E2F9427","path":"rooms/level5/level5.yy",},
     {"name":"inst_6BAA3DF6","path":"rooms/level5/level5.yy",},
     {"name":"inst_435CB555","path":"rooms/level5/level5.yy",},
+    {"name":"inst_5F59EACA","path":"rooms/level5/level5.yy",},
     {"name":"inst_457E8594","path":"rooms/level5/level5.yy",},
     {"name":"inst_28C0D32D","path":"rooms/level5/level5.yy",},
     {"name":"inst_6C00107","path":"rooms/level5/level5.yy",},
