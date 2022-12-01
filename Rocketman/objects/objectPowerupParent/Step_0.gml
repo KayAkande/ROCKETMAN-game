@@ -9,8 +9,7 @@ if (place_meeting (x, y, objectPlayer) && !collected){
 
 //collected 
 if(collected){
-	
-	
+		
 	if(self == objectAmmo){
 		audio_play_sound(pickUpAmmoSound, 1, false);
 	}

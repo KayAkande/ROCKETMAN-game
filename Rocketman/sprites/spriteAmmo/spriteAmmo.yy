@@ -11,15 +11,26 @@
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
   "bbox_left": 0,
+<<<<<<< Updated upstream
   "bbox_right": 79,
   "bbox_top": 0,
   "bbox_bottom": 39,
+=======
+  "bbox_right": 75,
+  "bbox_top": 0,
+  "bbox_bottom": 50,
+>>>>>>> Stashed changes
   "HTile": false,
   "VTile": false,
   "For3D": false,
   "DynamicTexturePage": false,
+<<<<<<< Updated upstream
   "width": 80,
   "height": 40,
+=======
+  "width": 76,
+  "height": 51,
+>>>>>>> Stashed changes
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
@@ -28,7 +39,11 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
+<<<<<<< Updated upstream
     {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"21906f24-fe51-441e-85d0-7132050f3720",},
+=======
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"aafe0723-8c03-4e26-9d96-83c674b27570",},
+>>>>>>> Stashed changes
   ],
   "sequence": {
     "resourceType": "GMSequence",
@@ -45,7 +60,11 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+<<<<<<< Updated upstream
             {"id":"29b803d7-a601-4472-8c55-1286fd1d5dc3","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"21906f24-fe51-441e-85d0-7132050f3720","path":"sprites/spriteAmmo/spriteAmmo.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+=======
+            {"id":"acda34fd-ea2f-4196-802b-9b238d487a67","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"aafe0723-8c03-4e26-9d96-83c674b27570","path":"sprites/spriteAmmo/spriteAmmo.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+>>>>>>> Stashed changes
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
@@ -58,13 +77,22 @@
     "backdropHeight": 768,
     "backdropXOffset": 0.0,
     "backdropYOffset": 0.0,
+<<<<<<< Updated upstream
     "xorigin": 40,
     "yorigin": 20,
+=======
+    "xorigin": 38,
+    "yorigin": 25,
+>>>>>>> Stashed changes
     "eventToFunction": {},
     "eventStubScript": null,
   },
   "layers": [
+<<<<<<< Updated upstream
     {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"b9c048c7-1d69-4a0a-90d8-67b3e9df334f","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
+=======
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"3b2c0840-0180-4ce1-b226-198a5644c049","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
+>>>>>>> Stashed changes
   ],
   "nineSlice": null,
   "parent": {
