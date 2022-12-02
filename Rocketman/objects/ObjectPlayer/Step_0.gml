@@ -127,5 +127,7 @@ if (global.health <= 0)
 		}
 	
 	else{
+			
+	audio_play_sound(playerDeathSound, 1, false);
 	room_goto(loserScreen);}
 }
