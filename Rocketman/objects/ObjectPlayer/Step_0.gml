@@ -28,6 +28,7 @@ if (_oldSprite != sprite_index) localFrame =0;
 //Update Image Index
 PlayerAnimateSprite();
 
+
 coolDown--;
 
 
