@@ -126,7 +126,16 @@ if (global.health <= 0)
 
 		}
 	
+	//when player dies
 	else{
+		
+	global.totalCoins = global.totalCoins  - global.coinsCollectedinLevel;
+	global.totalAmmo = global.totalAmmo - global.bulletsCollectedinLevel;
+	global.revivePowerup = global.revivePowerup - global.reviveCollectedinLevel;
+	
+	global.bulletsCollectedinLevel = 0; 
+	global.reviveCollectedinLevel = 0;
+	global.coinsCollectedinLevel = 0;
 			
 	audio_play_sound(playerDeathSound, 1, false);
 	room_goto(loserScreen);}

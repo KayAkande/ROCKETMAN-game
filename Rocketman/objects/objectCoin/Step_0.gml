@@ -4,9 +4,12 @@
 
 if (place_meeting (x, y, objectPlayer) && !collected){
 	//objectPlayer.coins++;
+	
+	global.coinsCollectedinLevel ++;
 	global.totalCoins++ ;
 	image_index = 0;
 	collected = true;
+	
 }
 
 //collected 

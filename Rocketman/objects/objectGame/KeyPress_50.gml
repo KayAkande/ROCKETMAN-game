@@ -4,7 +4,7 @@ reviveCost = 500;
 
 if (global.totalCoins <  reviveCost){
 	
-		audio_play_sound(notEnoughCoinsSound, 1, false);
+	//	audio_play_sound(notEnoughCoinsSound, 1, false);
 
 }
 

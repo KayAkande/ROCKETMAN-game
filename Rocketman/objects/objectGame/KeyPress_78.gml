@@ -2,30 +2,6 @@
 // You can write your code in this editor
 
 
-if (room == loserScreen){
-	
-	global.totalAmmo = 5;
-	global.health = 100;
-	
-		room_goto(global.lastRoom);
-}
-
-
-if (room == reviveScreen){
-		room_goto(global.lastRoom);
-		
-	if (global.totalAmmo <15){	
-			global.totalAmmo = 15;
-		}
-		
-		global.health = 75;
-		
-		if (global.reviveToRemove != 0){
-			instance_destroy(global.reviveToRemove);
-		}
-		
-}
-
 
 
 

@@ -5,7 +5,7 @@ healthCost = 250;
 if (global.totalCoins < healthCost){
 	
 	
-	audio_play_sound(notEnoughCoinsSound, 1, false);
+//	audio_play_sound(notEnoughCoinsSound, 1, false);
 
 
 }

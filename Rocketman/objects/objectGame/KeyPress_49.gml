@@ -4,7 +4,7 @@ ammoCost = 250;
 
 if (global.totalCoins < ammoCost){
 	
-	audio_play_sound(notEnoughCoinsSound, 1, false);
+	//audio_play_sound(notEnoughCoinsSound, 1, false);
 
 }
 
