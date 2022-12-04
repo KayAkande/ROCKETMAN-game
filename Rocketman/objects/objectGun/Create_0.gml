@@ -20,18 +20,3 @@ global.target = instance_nearest(x,y,objectEnemyParent);
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

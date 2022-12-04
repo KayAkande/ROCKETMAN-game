@@ -9,7 +9,7 @@ var h_dist = 20;
 draw_set_font(ft_gui);
 var _w = display_get_gui_width();
 //draw coin sprite
-draw_sprite(spriteCoin, 0, _w - draw_x*2 -45, draw_y+15);
+draw_sprite(spriteCoinIcon, 0, _w - draw_x*2 -45, draw_y+15);
 // draw coin text
 draw_set_halign(fa_right);
 draw_text(_w - draw_x*2- 45,  draw_y +15, global.totalCoins); 
@@ -22,25 +22,32 @@ draw_set_halign(fa_left);
 
 
 
-//draw powerup sprites 
+//draw powerup sprites
+
+
+
+
+draw_sprite(spriteAmmoIcon, 0, _w - draw_x*1.5 -435, draw_y+30);
+draw_text(_w - draw_x*2- 505,  draw_y +35, floor(global.totalAmmo));
+
+
 if (global.revivePowerup >= 0){
-	draw_text(_w - draw_x*2- 250,  draw_y +30, global.revivePowerup);
-draw_sprite(spriteRevive, 0, _w - draw_x*2 -200, draw_y+30);
+	draw_sprite(spriteReviveIcon, 0, _w - draw_x*2 -300, draw_y+30);
+	draw_text(_w - draw_x*2- 350,  draw_y +30, global.revivePowerup);
+
 }
+
+
+if (global.healthPowerup >= 0){
+	//draw_text(_w - draw_x*2- 225,  draw_y +30, global.healthPowerup);
+	draw_sprite(spriteHealthIcon, 0, _w - draw_x*2 -175, draw_y+30);
+}
+
 
 //if (global.shieldPowerup >= 0){
 //draw_text(_w - draw_x*2 -350,  draw_y +30, global.shieldPowerup);
 //draw_sprite(spriteShield, 0, _w - draw_x*2 -300, draw_y+30);
 //}
-
-if (global.healthPowerup >= 0){
-	draw_text(_w - draw_x*2- 350,  draw_y +30, global.healthPowerup);
-draw_sprite(spriteHealth, 0, _w - draw_x*2 -300, draw_y+30);
-}
-
-
-draw_sprite(spriteAmmo, 0, _w - draw_x*1.5 -450, draw_y+30);
-draw_text(_w - draw_x*2- 520,  draw_y +35, floor(global.totalAmmo));
 
 
 

@@ -1,9 +1,4 @@
-/// @description Insert description here
-// You can write your code in this editor
-
-
+/// @description QUIT GAME
 
 
 game_end();
-
-
