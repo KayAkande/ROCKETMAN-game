@@ -139,9 +139,9 @@
     {"id":{"name":"level2","path":"rooms/level2/level2.yy",},"order":0,},
   ],
   "Options": [
-    {"name":"operagx","path":"options/operagx/options_operagx.yy",},
-    {"name":"Main","path":"options/main/options_main.yy",},
     {"name":"macOS","path":"options/mac/options_mac.yy",},
+    {"name":"Main","path":"options/main/options_main.yy",},
+    {"name":"operagx","path":"options/operagx/options_operagx.yy",},
   ],
   "defaultScriptType": 0,
   "isEcma": false,
