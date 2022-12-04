@@ -29,7 +29,7 @@ if (room == advanceScreen4){
 }
 
 if (room == advanceScreen5){
-		room_goto(levelBonusDestroyWalls);		
+		room_goto(bonusLevelScreen);		
 		
 }
 
