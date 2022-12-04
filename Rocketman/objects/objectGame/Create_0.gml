@@ -15,7 +15,3 @@ pauseSurfBuffer = -1;
 
 resW = 8800;
 resH = 5950;
-
-
-coolDownValue = 10;
-coolDown = 0;

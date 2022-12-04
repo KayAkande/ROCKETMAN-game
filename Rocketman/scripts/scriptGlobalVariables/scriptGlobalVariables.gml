@@ -7,10 +7,6 @@ global.revivePowerup = 0;
 global.lastRoom = "something";
 global.DamageTaken = 0.5;
 
-global.coinsCollectedinLevel = 0;
-global.bulletsCollectedinLevel = 0;
-global.reviveCollectedinLevel = 0;
-
 global.totalAmmo = 15;
 
 global.instancesToRemove = [];
