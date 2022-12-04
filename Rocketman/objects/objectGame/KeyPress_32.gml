@@ -33,10 +33,10 @@ if (room == advanceScreen5){
 		
 }
 
-if (room == advanceScreen6){
-		room_goto(levelBonusEmptySpace);		
+//if (room == advanceScreen6){
+//		room_goto(levelBonusEmptySpace);		
 		
-}
+//}
 
 
 if(room == loserScreen){

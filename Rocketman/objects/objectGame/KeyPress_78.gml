@@ -1,10 +1,17 @@
-/// @description NEXT ROOM
-// You can write your code in this editor
+/// @description No to bonus screen
+
+
+
+if (room = bonusLevelScreen){
+	
+	room_goto(finalWinScreen)
+
+}
 
 
 
 
-
+//change this 
 one = 1;
 
 
@@ -38,11 +45,10 @@ if (one == 1){
 	}
 
 	if (room == levelBonusDestroyWalls){
-			room_goto(levelBonusEmptySpace);
-	}
-
-	if (room == levelBonusEmptySpace) {
 			room_goto(finalWinScreen);
 	}
+
 	
 }
+
+
