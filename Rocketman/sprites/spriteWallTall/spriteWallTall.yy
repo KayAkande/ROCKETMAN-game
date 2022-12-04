@@ -18,9 +18,12 @@
   "VTile": false,
   "For3D": false,
 <<<<<<< Updated upstream:Rocketman/sprites/spriteWallTall/spriteWallTall.yy
+<<<<<<< Updated upstream:Rocketman/sprites/spriteWallTall/spriteWallTall.yy
   "DynamicTexturePage": false,
   "width": 64,
 =======
+=======
+>>>>>>> Stashed changes:Rocketman/sprites/spriteWallSquarePurple/spriteWallSquarePurple.yy
   "width": 128,
 >>>>>>> Stashed changes:Rocketman/sprites/spriteWallSquareRed/spriteWallSquareRed.yy
   "height": 128,

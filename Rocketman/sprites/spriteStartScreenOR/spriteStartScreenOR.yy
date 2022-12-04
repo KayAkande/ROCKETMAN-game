@@ -17,8 +17,13 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+<<<<<<< Updated upstream:Rocketman/sprites/spriteStartScreenOR/spriteStartScreenOR.yy
   "width": 1600,
   "height": 900,
+=======
+  "width": 944,
+  "height": 161,
+>>>>>>> Stashed changes:Rocketman/sprites/spriteRocketmanLogo/spriteRocketmanLogo.yy
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",

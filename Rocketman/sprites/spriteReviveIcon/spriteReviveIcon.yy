@@ -1,30 +1,24 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "spriteFloorSqaure25",
+  "name": "spriteReviveIcon",
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
-  "origin": 0,
+  "origin": 4,
   "preMultiplyAlpha": false,
   "edgeFiltering": false,
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
   "bbox_left": 0,
-  "bbox_right": 319,
+  "bbox_right": 123,
   "bbox_top": 0,
-  "bbox_bottom": 319,
+  "bbox_bottom": 104,
   "HTile": false,
   "VTile": false,
   "For3D": false,
-<<<<<<< Updated upstream:Rocketman/sprites/spriteFloorSqaure25/spriteFloorSqaure25.yy
-  "DynamicTexturePage": false,
-  "width": 320,
-  "height": 320,
-=======
-  "width": 128,
-  "height": 128,
->>>>>>> Stashed changes:Rocketman/sprites/spriteFloorSpace56/spriteFloorSpace56.yy
+  "width": 124,
+  "height": 105,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
@@ -33,12 +27,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"63162573-d96e-4c96-9363-5c24ae4c404c",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"87b2cef6-2d8a-4fff-b0c6-a631fc2634a4",},
   ],
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "spriteFloorSqaure25",
+    "name": "spriteReviveIcon",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -50,7 +44,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"62d8660d-8722-45df-94dc-43f65e55cf46","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"63162573-d96e-4c96-9363-5c24ae4c404c","path":"sprites/spriteFloorSqaure25/spriteFloorSqaure25.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"9970409e-f21c-4b43-b209-95f808f689c9","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"87b2cef6-2d8a-4fff-b0c6-a631fc2634a4","path":"sprites/spriteReviveIcon/spriteReviveIcon.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
@@ -63,17 +57,17 @@
     "backdropHeight": 768,
     "backdropXOffset": 0.0,
     "backdropYOffset": 0.0,
-    "xorigin": 0,
-    "yorigin": 0,
+    "xorigin": 62,
+    "yorigin": 52,
     "eventToFunction": {},
     "eventStubScript": null,
   },
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"d1a7f847-f28c-4c79-9b99-868206cf2010","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"bf816da5-12e3-4b2a-949b-0e53d5159206","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
-    "name": "floor",
-    "path": "folders/Sprites/floor.yy",
+    "name": "powerups",
+    "path": "folders/Sprites/powerups.yy",
   },
 }

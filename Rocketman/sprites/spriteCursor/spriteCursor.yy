@@ -17,8 +17,13 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+<<<<<<< Updated upstream
   "width": 60,
   "height": 60,
+=======
+  "width": 70,
+  "height": 70,
+>>>>>>> Stashed changes
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",

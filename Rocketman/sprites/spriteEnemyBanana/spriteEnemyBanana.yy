@@ -18,10 +18,13 @@
   "VTile": false,
   "For3D": false,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   "DynamicTexturePage": false,
   "width": 170,
   "height": 170,
 =======
+=======
+>>>>>>> Stashed changes
   "width": 100,
   "height": 140,
 >>>>>>> Stashed changes

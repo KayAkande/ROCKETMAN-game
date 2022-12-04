@@ -17,8 +17,13 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+<<<<<<< Updated upstream:Rocketman/sprites/spriteHealthBarBackground/spriteHealthBarBackground.yy
   "width": 108,
   "height": 32,
+=======
+  "width": 76,
+  "height": 51,
+>>>>>>> Stashed changes:Rocketman/sprites/spriteAmmo/spriteAmmo.yy
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",

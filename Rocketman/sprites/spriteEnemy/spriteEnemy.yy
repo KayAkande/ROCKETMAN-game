@@ -18,10 +18,13 @@
   "VTile": false,
   "For3D": false,
 <<<<<<< Updated upstream:Rocketman/sprites/spriteEnemy/spriteEnemy.yy
+<<<<<<< Updated upstream:Rocketman/sprites/spriteEnemy/spriteEnemy.yy
   "DynamicTexturePage": false,
   "width": 64,
   "height": 64,
 =======
+=======
+>>>>>>> Stashed changes:Rocketman/sprites/spriteLoser/spriteLoser.yy
   "width": 1600,
   "height": 900,
 >>>>>>> Stashed changes:Rocketman/sprites/spriteLoser/spriteLoser.yy
