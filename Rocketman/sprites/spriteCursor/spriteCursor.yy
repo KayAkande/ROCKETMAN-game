@@ -18,9 +18,12 @@
   "VTile": false,
   "For3D": false,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   "width": 60,
   "height": 60,
 =======
+=======
+>>>>>>> Stashed changes
   "width": 70,
   "height": 70,
 >>>>>>> Stashed changes

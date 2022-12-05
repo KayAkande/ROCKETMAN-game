@@ -18,10 +18,13 @@
   "VTile": false,
   "For3D": false,
 <<<<<<< Updated upstream:Rocketman/sprites/spriteFloorVariation/spriteFloorVariation.yy
+<<<<<<< Updated upstream:Rocketman/sprites/spriteFloorVariation/spriteFloorVariation.yy
   "DynamicTexturePage": false,
   "width": 64,
   "height": 64,
 =======
+=======
+>>>>>>> Stashed changes:Rocketman/sprites/spriteGun/spriteGun.yy
   "width": 96,
   "height": 48,
 >>>>>>> Stashed changes:Rocketman/sprites/spriteGun/spriteGun.yy

@@ -18,9 +18,12 @@
   "VTile": false,
   "For3D": false,
 <<<<<<< Updated upstream:Rocketman/sprites/spriteStartScreenOR/spriteStartScreenOR.yy
+<<<<<<< Updated upstream:Rocketman/sprites/spriteStartScreenOR/spriteStartScreenOR.yy
   "width": 1600,
   "height": 900,
 =======
+=======
+>>>>>>> Stashed changes:Rocketman/sprites/spriteRocketmanLogo/spriteRocketmanLogo.yy
   "width": 944,
   "height": 161,
 >>>>>>> Stashed changes:Rocketman/sprites/spriteRocketmanLogo/spriteRocketmanLogo.yy

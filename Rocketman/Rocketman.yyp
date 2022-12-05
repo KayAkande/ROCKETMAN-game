@@ -53,7 +53,10 @@
     {"name":"Main","path":"options/main/options_main.yy",},
     {"name":"Windows","path":"options/windows/options_windows.yy",},
     {"name":"operagx","path":"options/operagx/options_operagx.yy",},
+<<<<<<< Updated upstream
     {"name":"macOS","path":"options/mac/options_mac.yy",},
+=======
+>>>>>>> Stashed changes
     {"name":"Windows","path":"options/windows/options_windows.yy",},
   ],
   "defaultScriptType": 0,

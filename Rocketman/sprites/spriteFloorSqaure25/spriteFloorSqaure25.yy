@@ -18,10 +18,13 @@
   "VTile": false,
   "For3D": false,
 <<<<<<< Updated upstream:Rocketman/sprites/spriteFloorSqaure25/spriteFloorSqaure25.yy
+<<<<<<< Updated upstream:Rocketman/sprites/spriteFloorSqaure25/spriteFloorSqaure25.yy
   "DynamicTexturePage": false,
   "width": 320,
   "height": 320,
 =======
+=======
+>>>>>>> Stashed changes:Rocketman/sprites/spriteFloorSpace/spriteFloorSpace.yy
   "width": 128,
   "height": 128,
 >>>>>>> Stashed changes:Rocketman/sprites/spriteFloorSpace56/spriteFloorSpace56.yy

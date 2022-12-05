@@ -17,9 +17,14 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+<<<<<<< Updated upstream:Rocketman/sprites/spriteFloorRectangle5/spriteFloorRectangle5.yy
   "DynamicTexturePage": false,
   "width": 320,
   "height": 64,
+=======
+  "width": 128,
+  "height": 128,
+>>>>>>> Stashed changes:Rocketman/sprites/spriteFloorSpace56/spriteFloorSpace56.yy
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",

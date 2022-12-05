@@ -19,6 +19,7 @@
   "For3D": false,
 <<<<<<< Updated upstream:Rocketman/sprites/spriteWallWide/spriteWallWide.yy
 <<<<<<< Updated upstream:Rocketman/sprites/spriteWallWide/spriteWallWide.yy
+<<<<<<< Updated upstream:Rocketman/sprites/spriteWallWide/spriteWallWide.yy
   "DynamicTexturePage": false,
   "width": 128,
   "height": 64,
@@ -27,6 +28,8 @@
   "height": 40,
 >>>>>>> Stashed changes:Rocketman/sprites/spriteAmmo/spriteAmmo.yy
 =======
+=======
+>>>>>>> Stashed changes:Rocketman/sprites/spriteAmmoIcon/spriteAmmoIcon.yy
   "width": 124,
   "height": 105,
 >>>>>>> Stashed changes:Rocketman/sprites/spriteAmmoIcon/spriteAmmoIcon.yy

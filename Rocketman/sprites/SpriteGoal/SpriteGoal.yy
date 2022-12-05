@@ -19,10 +19,13 @@
   "For3D": false,
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   "DynamicTexturePage": false,
   "width": 128,
   "height": 192,
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
   "width": 160,

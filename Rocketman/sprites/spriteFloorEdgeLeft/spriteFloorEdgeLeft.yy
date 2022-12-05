@@ -18,10 +18,13 @@
   "VTile": false,
   "For3D": false,
 <<<<<<< Updated upstream:Rocketman/sprites/spriteFloorEdgeLeft/spriteFloorEdgeLeft.yy
+<<<<<<< Updated upstream:Rocketman/sprites/spriteFloorEdgeLeft/spriteFloorEdgeLeft.yy
   "DynamicTexturePage": false,
   "width": 64,
   "height": 64,
 =======
+=======
+>>>>>>> Stashed changes:Rocketman/sprites/spriteWallSquareRed/spriteWallSquareRed.yy
   "width": 128,
   "height": 128,
 >>>>>>> Stashed changes:Rocketman/sprites/spriteWallSquareRed/spriteWallSquareRed.yy
