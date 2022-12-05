@@ -85,6 +85,7 @@
     {"id":{"name":"objectBrokenTile","path":"objects/objectBrokenTile/objectBrokenTile.yy",},"order":26,},
     {"id":{"name":"spriteReviveIcon","path":"sprites/spriteReviveIcon/spriteReviveIcon.yy",},"order":8,},
     {"id":{"name":"objectEnemyBanana","path":"objects/objectEnemyBanana/objectEnemyBanana.yy",},"order":5,},
+    {"id":{"name":"spriteCoins","path":"sprites/spriteCoins/spriteCoins.yy",},"order":19,},
     {"id":{"name":"spriteCoinIcon","path":"sprites/spriteCoinIcon/spriteCoinIcon.yy",},"order":9,},
     {"id":{"name":"TileSet1","path":"tilesets/TileSet1/TileSet1.yy",},"order":0,},
     {"id":{"name":"scriptGlobalVariables","path":"scripts/scriptGlobalVariables/scriptGlobalVariables.yy",},"order":4,},
