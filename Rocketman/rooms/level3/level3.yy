@@ -18,7 +18,6 @@
   "layers": [
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances_ammo","instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_478FE9C3","properties":[],"isDnd":false,"objectId":{"name":"objectAmmo","path":"objects/objectAmmo/objectAmmo.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":768.0,"y":1472.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_77683392","properties":[],"isDnd":false,"objectId":{"name":"objectAmmo","path":"objects/objectAmmo/objectAmmo.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":2816.0,"y":1632.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_291D2F52","properties":[],"isDnd":false,"objectId":{"name":"objectAmmo","path":"objects/objectAmmo/objectAmmo.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":4896.0,"y":2496.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_4DED4CB7","properties":[],"isDnd":false,"objectId":{"name":"objectAmmo","path":"objects/objectAmmo/objectAmmo.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":4992.0,"y":1280.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_54A983B0","properties":[],"isDnd":false,"objectId":{"name":"objectAmmo","path":"objects/objectAmmo/objectAmmo.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":6880.0,"y":3328.0,},
@@ -33,7 +32,6 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_269CE142","properties":[],"isDnd":false,"objectId":{"name":"objectAmmo","path":"objects/objectAmmo/objectAmmo.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":3328.0,"y":2112.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_5CA7B9EE","properties":[],"isDnd":false,"objectId":{"name":"objectAmmo","path":"objects/objectAmmo/objectAmmo.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":768.0,"y":2496.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_773A5E4C","properties":[],"isDnd":false,"objectId":{"name":"objectAmmo","path":"objects/objectAmmo/objectAmmo.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":7168.0,"y":4320.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_7CD274CF","properties":[],"isDnd":false,"objectId":{"name":"objectAmmo","path":"objects/objectAmmo/objectAmmo.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":6976.0,"y":3936.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_A333F79","properties":[],"isDnd":false,"objectId":{"name":"objectAmmo","path":"objects/objectAmmo/objectAmmo.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":5664.0,"y":3552.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_588F90CE","properties":[],"isDnd":false,"objectId":{"name":"objectAmmo","path":"objects/objectAmmo/objectAmmo.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":448.0,"y":928.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_5C27D5BC","properties":[],"isDnd":false,"objectId":{"name":"objectAmmo","path":"objects/objectAmmo/objectAmmo.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":2816.0,"y":2816.0,},
@@ -2973,7 +2971,6 @@
     {"name":"inst_4A137D13","path":"rooms/level3/level3.yy",},
     {"name":"inst_4A63F195","path":"rooms/level3/level3.yy",},
     {"name":"inst_478FE9C3","path":"rooms/level3/level3.yy",},
-    {"name":"inst_77683392","path":"rooms/level3/level3.yy",},
     {"name":"inst_291D2F52","path":"rooms/level3/level3.yy",},
     {"name":"inst_4DED4CB7","path":"rooms/level3/level3.yy",},
     {"name":"inst_54A983B0","path":"rooms/level3/level3.yy",},
@@ -3069,7 +3066,6 @@
     {"name":"inst_269CE142","path":"rooms/level3/level3.yy",},
     {"name":"inst_5CA7B9EE","path":"rooms/level3/level3.yy",},
     {"name":"inst_773A5E4C","path":"rooms/level3/level3.yy",},
-    {"name":"inst_7CD274CF","path":"rooms/level3/level3.yy",},
     {"name":"inst_A333F79","path":"rooms/level3/level3.yy",},
     {"name":"inst_6D74C935","path":"rooms/level3/level3.yy",},
     {"name":"inst_7732E255","path":"rooms/level3/level3.yy",},
